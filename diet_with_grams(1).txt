@@ -1,0 +1,544 @@
+food_item,usage_notes,quantity,grams
+salmon cooked,180g grilled fillet,180g,180.0
+bulgur dry,½ cup cooked,0.5 cup,70.0
+pasta with meatballs in tomato sauce,2 diced,2 diced,246.0
+cucumber,1 diced,1 diced,200.0
+parsley fresh,large bunch,large bunch,5.0
+lemon chicken,juice of 2,juice of 2,38.4
+olive oil,2 tbsp,2 tbsp,28.0
+garlic,1 clove,1 cloves,4.0
+cod raw,200g fillet,200g,200.0
+pasta with meatballs in tomato sauce,3 chopped,3 chopped,369.0
+olives,10 kalamata,10 kalamata,40.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,2 tbsp,2 tbsp,28.0
+oregano dried,1 tsp,1 tsp,1.0
+lemon chicken,slices on top,slices on top,20.0
+capers canned,1 tbsp,1 tbsp,9.0
+chickpea flour,as roasted chickpeas 1 cup,1 cup,120.0
+spinach souffle,2 cups,2 cup,170.0
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+garlic,3 cloves,3 cloves,12.0
+cumin seeds,1 tsp,1 tsp,2.0
+olive oil,2 tbsp,2 tbsp,28.0
+lemon chicken,juice of 1,juice of 1,19.2
+paprika,½ tsp,0.5 tsp,1.1
+sardine canned in oil,1 tin drained,1 tin,100.0
+whole grain wheat flour,2 slices toast,2 slices,70.0
+avocado,¼ mashed,0.25 mashed,50.0
+lemon chicken,squeeze,squeeze,9.6
+red wine vinegar,dash,dash,2.0
+garlic,½ clove rubbed,0.5 cloves,2.0
+parsley fresh,sprigs,sprigs,10.0
+lentils raw,½ cup cooked,0.5 cup,100.0
+feta cheese,40g crumbled,40g,40.0
+cucumber,1 diced,1 diced,200.0
+pasta with meatballs in tomato sauce,2 diced,2 diced,246.0
+red wine vinegar,1 tbsp,1 tbsp,15.0
+olive oil,2 tbsp,2 tbsp,28.0
+garlic,1 clove,1 cloves,4.0
+oregano dried,½ tsp,0.5 tsp,0.5
+shrimp cooked,200g,200g,200.0
+couscous dry,½ cup dry,0.5 cup,87.5
+cucumber,diced,diced,200.0
+pasta with meatballs in tomato sauce,2 diced,2 diced,246.0
+olive oil,2 tbsp,2 tbsp,28.0
+lemon chicken,juice of 1,juice of 1,19.2
+garlic,2 cloves,2 cloves,8.0
+parsley fresh,chopped,chopped,5.0
+yogurt,1 cup plain,1 cup,245.0
+honey,1 tbsp,1 tbsp,21.0
+walnut,20g,20g,20.0
+pomegranate,seeds ¼ cup,0.25 cup,43.5
+oats,¼ cup toasted,0.25 cup,22.5
+nachos with cinnamon sugar,pinch,pinch,0.3
+figs,2 halved,2 halved,100.0
+eggplant raw,2 large sliced,2 large,900.0
+pasta with meatballs in tomato sauce,3 chopped,3 chopped,369.0
+garlic,4 cloves,4 cloves,16.0
+olive oil,3 tbsp,3 tbsp,42.0
+oregano dried,1 tsp,1 tsp,1.0
+feta cheese,40g,40g,40.0
+basil dried,fresh if possible,fresh if possible,2.0
+red wine vinegar,1 tsp,1 tsp,5.0
+tuna canned,1 can drained,1 can,140.0
+egg white raw,2 boiled eggs,2 boiled eggs,66.0
+cucumber,sliced,sliced,200.0
+pasta with meatballs in tomato sauce,2 halved,2 halved,246.0
+olive oil,2 tbsp,2 tbsp,28.0
+red wine vinegar,1 tbsp,1 tbsp,15.0
+garlic,1 clove,1 cloves,4.0
+capers canned,1 tbsp,1 tbsp,9.0
+oregano dried,½ tsp,0.5 tsp,0.5
+whole grain wheat flour,1 flatbread,1 flatbread,75.0
+pasta with meatballs in tomato sauce,2 sliced,2 slices,70.0
+mozzarella cheese,40g,40g,40.0
+eggplant raw,grilled slices,grilled slices,350.0
+olive oil,1 tbsp,1 tbsp,14.0
+basil dried,fresh if possible,fresh if possible,2.0
+garlic,1 clove,1 cloves,4.0
+red wine vinegar,½ tsp,0.5 tsp,2.5
+turkey breast raw,180g ground cooked,180g,180.0
+quinoa cooked,½ cup,0.5 cup,92.5
+broccoli raab raw,1 cup steamed,1 cup,40.0
+carrot juice,2 medium,2 medium,122.0
+garlic,2 cloves,2 cloves,8.0
+olive oil,1 tsp minimal,1 tsp,4.5
+lemon chicken,squeeze — no salt,squeeze — no salt,9.6
+thyme dried,½ tsp,0.5 tsp,0.5
+spinach souffle,2 cups,2 cup,170.0
+carrot juice,3 chopped,3 chopped,183.0
+cream of celery soup,3 stalks,3 stalks,120.0
+pasta with meatballs in tomato sauce,3 chopped,3 chopped,369.0
+lentils raw,¼ cup,0.25 cup,50.0
+garlic,3 cloves,3 cloves,12.0
+thyme dried,½ tsp,0.5 tsp,0.5
+olive oil,1 tsp,1 tsp,4.5
+banana,1 whole frozen,1 whole,118.0
+oats,¼ cup,0.25 cup,22.5
+yogurt,½ cup,0.5 cup,122.5
+flaxseeds,1 tbsp,1 tbsp,10.0
+honey,1 tsp,1 tsp,7.0
+chia seeds dried,1 tsp,1 tsp,4.0
+orange,juice of ½,juice of 0.5,26.0
+trout cooked,200g,200g,200.0
+broccoli raab raw,1 cup,1 cup,40.0
+carrot juice,2 steamed,2 steamed,122.0
+garlic,2 cloves,2 cloves,8.0
+lemon chicken,juice — replaces salt,juice — replaces salt,9.6
+olive oil,1 tsp,1 tsp,4.5
+thyme dried,½ tsp,0.5 tsp,0.5
+cottage cheese creamed,1 cup low-sodium,1 cup,226.0
+strawberry topping,½ cup,0.5 cup,76.0
+blueberry pancakes,¼ cup,0.25 cup,37.0
+banana,½ sliced,0.5 slices,17.5
+honey,1 tsp,1 tsp,7.0
+flaxseeds,1 tsp,1 tsp,3.5
+chicken breast cooked,200g,200g,200.0
+carrot juice,3 roasted,3 roasted,183.0
+sweet sour pork,1 medium,1 medium,119.0
+garlic,4 cloves,4 cloves,16.0
+olive oil,1 tbsp,1 tbsp,14.0
+thyme dried,1 tsp,1 tsp,1.0
+lemon chicken,slices,slices,20.0
+paprika,½ tsp no added salt,0.5 tsp,1.1
+lentils raw,½ cup cooked,0.5 cup,100.0
+whole grain wheat flour,1 large,1 large,75.0
+spinach souffle,1 cup,1 cup,85.0
+cucumber,sliced,sliced,200.0
+pasta with meatballs in tomato sauce,sliced,sliced,123.0
+yogurt,2 tbsp — replaces mayo,2 tbsp,30.0
+garlic,½ clove,0.5 cloves,2.0
+lemon chicken,squeeze,squeeze,9.6
+oats,½ cup rolled,0.5 cup,45.0
+apple,1 diced,1 diced,182.0
+walnut,20g,20g,20.0
+honey,1 tsp,1 tsp,7.0
+nachos with cinnamon sugar,½ tsp,0.5 tsp,1.3
+flaxseeds,1 tbsp,1 tbsp,10.0
+yogurt,2 tbsp,2 tbsp,30.0
+lentils raw,½ cup dry,0.5 cup,100.0
+pasta with meatballs in tomato sauce,4 chopped,4 chopped,492.0
+carrot juice,2 chopped,2 chopped,122.0
+cream of celery soup,2 stalks,2 stalks,80.0
+garlic,3 cloves,3 cloves,12.0
+cumin seeds,1 tsp,1 tsp,2.0
+olive oil,1 tsp,1 tsp,4.5
+lemon chicken,juice of 1 — no salt,juice of 1,19.2
+apple,1 sliced,1 slices,35.0
+walnut,20g,20g,20.0
+pistachio nuts raw,15g,15g,15.0
+yogurt,¼ cup,0.25 cup,61.2
+honey,½ tsp,0.5 tsp,3.5
+pomegranate,seeds,seeds,15.0
+chicken breast cooked,220g,220g,220.0
+white rice raw,1 cup cooked,1 cup,185.0
+broccoli raab raw,1 cup steamed,1 cup,40.0
+garlic,2 cloves,2 cloves,8.0
+soy sauce,1 tbsp low sodium,1 tbsp,16.0
+olive oil,1 tsp,1 tsp,4.5
+paprika,½ tsp,0.5 tsp,1.1
+lemon chicken,squeeze,squeeze,9.6
+beef shoulder steak raw,180g grilled,180g,180.0
+quinoa cooked,¾ cup,0.75 cup,138.8
+spinach souffle,2 cups wilted,2 cup,170.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tbsp,1 tbsp,14.0
+paprika,1 tsp,1 tsp,2.3
+lemon chicken,squeeze,squeeze,9.6
+mustard,1 tsp,1 tsp,5.0
+egg white raw,8 egg whites,8 egg whites,264.0
+whole grain wheat flour,2 slices toast,2 slices,70.0
+spinach souffle,1 cup,1 cup,85.0
+chicken mushroom soup,½ cup,0.5 cup,120.0
+garlic,1 clove,1 cloves,4.0
+olive oil,½ tsp,0.5 tsp,2.2
+paprika,pinch,pinch,0.3
+salmon cooked,180g,180g,180.0
+quinoa cooked,¾ cup,0.75 cup,138.8
+avocado,¼ sliced,0.25 slices,8.8
+cucumber,diced,diced,200.0
+soy sauce,1 tbsp,1 tbsp,16.0
+lemon chicken,squeeze,squeeze,9.6
+sesame flour,1 tsp seeds,1 tsp,3.0
+garlic,½ clove,0.5 cloves,2.0
+turkey breast raw,200g ground,200g,200.0
+whole grain wheat flour,100g dry,100g,100.0
+pasta with meatballs in tomato sauce,3 chopped,3 chopped,369.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tbsp,1 tbsp,14.0
+basil dried,1 tsp,1 tsp,1.0
+egg white raw,1 in meatballs,1 in meatballs,33.0
+paprika,½ tsp,0.5 tsp,1.1
+tuna canned,2 cans drained,2 can,280.0
+cottage cheese creamed,½ cup,0.5 cup,113.0
+cucumber,diced,diced,200.0
+red wine vinegar,1 tsp,1 tsp,5.0
+mustard,1 tsp,1 tsp,5.0
+garlic,½ clove,0.5 cloves,2.0
+paprika,pinch,pinch,0.3
+pork sirloin chops cooked,200g,200g,200.0
+sweet sour pork,1 large,1 large,164.0
+broccoli raab raw,1 cup,1 cup,40.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tsp,1 tsp,4.5
+thyme dried,½ tsp,0.5 tsp,0.5
+mustard,1 tsp,1 tsp,5.0
+sardine canned in oil,1 tin,1 tin,100.0
+egg white raw,3 boiled,3 boiled,99.0
+cucumber,1 diced,1 diced,200.0
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+olive oil,1 tbsp,1 tbsp,14.0
+red wine vinegar,1 tbsp,1 tbsp,15.0
+garlic,1 clove,1 cloves,4.0
+mustard,½ tsp,0.5 tsp,2.5
+yogurt,½ cup Greek,0.5 cup,122.5
+oats,½ cup blended,0.5 cup,45.0
+egg white raw,4 egg whites,4 egg whites,132.0
+banana,½ mashed,0.5 mashed,59.0
+honey,1 tsp,1 tsp,7.0
+nachos with cinnamon sugar,½ tsp,0.5 tsp,1.3
+strawberry topping,¼ cup,0.25 cup,38.0
+cod raw,200g baked,200g,200.0
+lentils raw,½ cup cooked,0.5 cup,100.0
+spinach souffle,2 cups wilted,2 cup,170.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tsp,1 tsp,4.5
+cumin seeds,½ tsp,0.5 tsp,1.0
+lemon chicken,juice of 1,juice of 1,19.2
+paprika,½ tsp,0.5 tsp,1.1
+pink lentils raw,½ cup dry,0.5 cup,100.0
+white rice raw,¾ cup cooked,0.75 cup,138.8
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+garlic,3 cloves,3 cloves,12.0
+cumin seeds,1 tsp,1 tsp,2.0
+coriander seeds,1 tsp,1 tsp,2.0
+olive oil,1 tsp,1 tsp,4.5
+spinach souffle,1 cup at end,1 cup,85.0
+quinoa cooked,¾ cup,0.75 cup,138.8
+avocado,½ sliced,0.5 slices,17.5
+cucumber,diced,diced,200.0
+carrot juice,shredded,shredded,61.0
+chickpea flour,as roasted chickpeas,as roasted chickpeas,164.0
+tahini,2 tbsp,2 tbsp,30.0
+lemon chicken,juice of 1,juice of 1,19.2
+garlic,½ clove,0.5 cloves,2.0
+soy sauce,1 tsp,1 tsp,5.0
+black bean soup,used as black beans 1 cup,1 cup,172.0
+bulgur dry,½ cup,0.5 cup,70.0
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+garlic,2 cloves,2 cloves,8.0
+cumin seeds,1 tsp,1 tsp,2.0
+paprika,1 tsp,1 tsp,2.3
+olive oil,1 tbsp,1 tbsp,14.0
+avocado,¼ sliced,0.25 slices,8.8
+azumaya tofu vitasoy,200g firm cubed,200g,200.0
+spinach souffle,2 cups,2 cup,170.0
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+garlic,3 cloves,3 cloves,12.0
+cumin seeds,1 tsp,1 tsp,2.0
+coriander seeds,1 tsp,1 tsp,2.0
+paprika,1 tsp,1 tsp,2.3
+olive oil,1 tbsp,1 tbsp,14.0
+yogurt,omit for vegan,omit for vegan,
+azumaya tofu vitasoy,200g pan-seared,200g,200.0
+mango,½ diced,0.5 diced,100.0
+broccoli raab raw,1 cup,1 cup,40.0
+garlic,3 cloves,3 cloves,12.0
+soy sauce,2 tbsp,2 tbsp,32.0
+olive oil,1 tbsp,1 tbsp,14.0
+sesame flour,1 tsp,1 tsp,3.0
+lemon chicken,squeeze,squeeze,9.6
+chickpea flour,as smashed chickpeas,as smashed chickpeas,164.0
+avocado,1 mashed,1 mashed,200.0
+whole grain wheat flour,2 slices toast,2 slices,70.0
+lemon chicken,squeeze,squeeze,9.6
+garlic,½ clove minced,0.5 cloves,2.0
+paprika,pinch,pinch,0.3
+olive oil,1 tsp,1 tsp,4.5
+pasta with meatballs in tomato sauce,sliced,sliced,123.0
+lentils raw,½ cup cooked,0.5 cup,100.0
+walnut,30g,30g,30.0
+carrot juice,shredded,shredded,61.0
+cucumber,diced,diced,200.0
+red wine vinegar,1 tbsp,1 tbsp,15.0
+olive oil,2 tbsp,2 tbsp,28.0
+garlic,1 clove,1 cloves,4.0
+mustard,½ tsp,0.5 tsp,2.5
+chia seeds dried,3 tbsp,3 tbsp,36.0
+mango,½ cup diced,0.5 cup,82.5
+banana,½ mashed for sweetness,0.5 mashed,59.0
+honey,1 tsp or maple,1 tsp,7.0
+flaxseeds,1 tsp,1 tsp,3.5
+nachos with cinnamon sugar,pinch,pinch,0.3
+white cake with coconut frosting,use coconut milk as base,use coconut milk as base,
+split pea soup with ham bacon,use dry split peas ½ cup no ham,0.5 cup,100.0
+carrot juice,2 chopped,2 chopped,122.0
+cream of celery soup,2 stalks,2 stalks,80.0
+garlic,3 cloves,3 cloves,12.0
+cumin seeds,1 tsp,1 tsp,2.0
+olive oil,1 tsp,1 tsp,4.5
+lemon chicken,juice of 1,juice of 1,19.2
+thyme dried,½ tsp,0.5 tsp,0.5
+japanese soba noodles dry,100g cooked,100g,100.0
+tahini,3 tbsp,3 tbsp,45.0
+soy sauce,2 tbsp,2 tbsp,32.0
+garlic,2 cloves,2 cloves,8.0
+lemon chicken,juice of 1,juice of 1,19.2
+cucumber,sliced,sliced,200.0
+carrot juice,shredded,shredded,61.0
+sesame flour,1 tsp,1 tsp,3.0
+egg white raw,3 whole eggs,3 whole,99.0
+avocado,1 halved,1 halved,200.0
+spinach souffle,1 cup wilted,1 cup,85.0
+olive oil,1 tsp,1 tsp,4.5
+garlic,1 clove,1 cloves,4.0
+paprika,pinch,pinch,0.3
+feta cheese,20g,20g,20.0
+beef shoulder steak raw,180g,180g,180.0
+baby zucchini,2 spiralized,2 spiralized,200.0
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tbsp,1 tbsp,14.0
+basil dried,1 tsp,1 tsp,1.0
+paprika,½ tsp,0.5 tsp,1.1
+parmesan cheese,optional 15g,15g,15.0
+salmon cooked,180g,180g,180.0
+avocado,½ sliced,0.5 slices,17.5
+cucumber,sliced,sliced,200.0
+lemon chicken,juice of 1,juice of 1,19.2
+olive oil,1 tbsp,1 tbsp,14.0
+garlic,1 clove,1 cloves,4.0
+thyme dried,pinch,pinch,0.3
+egg white raw,8 egg whites,8 egg whites,264.0
+spinach souffle,1 cup,1 cup,85.0
+chicken mushroom soup,1 cup,1 cup,240.0
+garlic,2 cloves,2 cloves,8.0
+feta cheese,30g,30g,30.0
+olive oil,½ tsp,0.5 tsp,2.2
+paprika,pinch,pinch,0.3
+thyme dried,pinch,pinch,0.3
+chicken breast cooked,180g shredded,180g,180.0
+cucumber,diced,diced,200.0
+avocado,½ mashed,0.5 mashed,100.0
+garlic,1 clove,1 cloves,4.0
+soy sauce,1 tbsp,1 tbsp,16.0
+lemon chicken,squeeze,squeeze,9.6
+sesame flour,1 tsp,1 tsp,3.0
+cabbage raw,large leaves as wrap,large leaves as wrap,60.0
+shrimp cooked,200g,200g,200.0
+avocado,1 diced,1 diced,200.0
+cucumber,1 diced,1 diced,200.0
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+olive oil,2 tbsp,2 tbsp,28.0
+lemon chicken,juice of 1,juice of 1,19.2
+garlic,1 clove,1 cloves,4.0
+red wine vinegar,1 tsp,1 tsp,5.0
+trout cooked,200g,200g,200.0
+spinach souffle,2 cups steamed,2 cup,170.0
+broccoli raab raw,1 cup,1 cup,40.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tbsp,1 tbsp,14.0
+lemon chicken,juice,juice,9.6
+thyme dried,½ tsp,0.5 tsp,0.5
+turkey breast raw,200g ground,200g,200.0
+cabbage raw,2 cups shredded,2 cup,178.0
+garlic,3 cloves,3 cloves,12.0
+soy sauce,2 tbsp,2 tbsp,32.0
+olive oil,1 tbsp,1 tbsp,14.0
+gingerbread,½ tsp ground,0.5 tsp,1.0
+sesame flour,1 tsp,1 tsp,3.0
+lemon chicken,squeeze,squeeze,9.6
+spinach souffle,3 cups,3 cup,255.0
+walnut,30g,30g,30.0
+feta cheese,50g,50g,50.0
+cucumber,1 diced,1 diced,200.0
+red wine vinegar,1 tbsp,1 tbsp,15.0
+olive oil,2 tbsp,2 tbsp,28.0
+garlic,1 clove,1 cloves,4.0
+mustard,½ tsp,0.5 tsp,2.5
+cod raw,200g,200g,200.0
+baby zucchini,1 sliced roasted,1 slices,35.0
+eggplant raw,1 cubed roasted,1 cubed roasted,350.0
+garlic,4 cloves,4 cloves,16.0
+olive oil,2 tbsp,2 tbsp,28.0
+paprika,1 tsp,1 tsp,2.3
+lemon chicken,squeeze,squeeze,9.6
+thyme dried,½ tsp,0.5 tsp,0.5
+pasta with meatballs in tomato sauce,4 chopped,4 chopped,492.0
+spinach souffle,2 cups,2 cup,170.0
+carrot juice,3 chopped,3 chopped,183.0
+cream of celery soup,3 stalks,3 stalks,120.0
+baby zucchini,1 diced,1 diced,100.0
+lentils raw,¼ cup,0.25 cup,50.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tsp,1 tsp,4.5
+basil dried,1 tsp,1 tsp,1.0
+watermelon,3 cups cubed,3 cup,456.0
+feta cheese,40g crumbled,40g,40.0
+cucumber,1 diced,1 diced,200.0
+after eight mints nestle,fresh sprigs,fresh sprigs,2.0
+red wine vinegar,1 tsp,1 tsp,5.0
+olive oil,1 tsp,1 tsp,4.5
+pomegranate,seeds,seeds,15.0
+broccoli raab raw,2 cups,2 cup,80.0
+spinach souffle,2 cups,2 cup,170.0
+garlic,3 cloves,3 cloves,12.0
+cream of onion soup,1 large,1 large,210.0
+carrot juice,1 chopped,1 chopped,61.0
+olive oil,1 tsp,1 tsp,4.5
+lemon chicken,squeeze,squeeze,9.6
+yogurt,2 tbsp as finish,2 tbsp,30.0
+baby zucchini,3 large sliced,3 large,450.0
+pasta with meatballs in tomato sauce,4 chopped,4 chopped,492.0
+eggplant raw,1 cubed,1 cubed,350.0
+garlic,4 cloves,4 cloves,16.0
+olive oil,2 tbsp,2 tbsp,28.0
+oregano dried,1 tsp,1 tsp,1.0
+feta cheese,30g,30g,30.0
+basil dried,fresh if possible,fresh if possible,2.0
+cucumber,2 large,2 large,600.0
+yogurt,1 cup,1 cup,245.0
+garlic,1 clove,1 cloves,4.0
+lemon chicken,juice of 1,juice of 1,19.2
+after eight mints nestle,fresh,fresh,2.0
+olive oil,1 tsp,1 tsp,4.5
+red wine vinegar,½ tsp,0.5 tsp,2.5
+parsley fresh,chopped,chopped,5.0
+apple,1 large,1 large,220.0
+watermelon,2 cups,2 cup,304.0
+cucumber,1 sliced,1 slices,35.0
+carrot juice,sticks,sticks,61.0
+yogurt,¼ cup,0.25 cup,61.2
+honey,½ tsp,0.5 tsp,3.5
+chia seeds dried,½ tsp,0.5 tsp,2.0
+lentils raw,½ cup dry,0.5 cup,100.0
+carrot juice,3 chopped,3 chopped,183.0
+cream of celery soup,3 stalks,3 stalks,120.0
+spinach souffle,2 cups,2 cup,170.0
+pasta with meatballs in tomato sauce,3 chopped,3 chopped,369.0
+garlic,4 cloves,4 cloves,16.0
+cumin seeds,1 tsp,1 tsp,2.0
+olive oil,1 tsp,1 tsp,4.5
+lemon chicken,juice of 1,juice of 1,19.2
+chicken breast cooked,150g shredded,150g,150.0
+cabbage raw,3 cups,3 cup,267.0
+carrot juice,2 chopped,2 chopped,122.0
+cream of celery soup,2 stalks,2 stalks,80.0
+garlic,3 cloves,3 cloves,12.0
+pasta with meatballs in tomato sauce,2 chopped,2 chopped,246.0
+thyme dried,½ tsp,0.5 tsp,0.5
+olive oil,1 tsp,1 tsp,4.5
+mango,½ cup frozen as sub,0.5 cup,82.5
+strawberry topping,½ cup,0.5 cup,76.0
+banana,½ frozen,0.5 frozen,59.0
+yogurt,½ cup,0.5 cup,122.5
+chia seeds dried,1 tbsp,1 tbsp,12.0
+honey,1 tsp,1 tsp,7.0
+flaxseeds,1 tsp,1 tsp,3.5
+chicken mushroom soup,8 large caps,8 large,240.0
+spinach souffle,1 cup,1 cup,85.0
+garlic,2 cloves,2 cloves,8.0
+feta cheese,30g,30g,30.0
+olive oil,1 tbsp,1 tbsp,14.0
+thyme dried,½ tsp,0.5 tsp,0.5
+lemon chicken,squeeze,squeeze,9.6
+paprika,pinch,pinch,0.3
+chicken breast cooked,200g,200g,200.0
+white rice raw,1 cup cooked,1 cup,185.0
+black bean soup,½ cup black beans,0.5 cup,86.0
+avocado,¼,¼,50.0
+pasta with meatballs in tomato sauce,2 diced,2 diced,246.0
+yogurt,2 tbsp,2 tbsp,30.0
+garlic,2 cloves,2 cloves,8.0
+paprika,1 tsp,1 tsp,2.3
+lemon chicken,squeeze,squeeze,9.6
+beef shoulder steak raw,180g,180g,180.0
+white rice raw,¾ cup cooked,0.75 cup,138.8
+broccoli raab raw,1 cup,1 cup,40.0
+chicken mushroom soup,½ cup,0.5 cup,120.0
+soy sauce,2 tbsp,2 tbsp,32.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,1 tbsp,1 tbsp,14.0
+sesame flour,1 tsp,1 tsp,3.0
+salmon cooked,180g,180g,180.0
+white rice raw,¾ cup cooked,0.75 cup,138.8
+avocado,¼,¼,50.0
+cucumber,sliced,sliced,200.0
+soy sauce,1 tbsp,1 tbsp,16.0
+lemon chicken,squeeze,squeeze,9.6
+sesame flour,1 tsp,1 tsp,3.0
+garlic,½ clove,0.5 cloves,2.0
+oats,1 cup,1 cup,90.0
+peanut butter,2 tbsp,2 tbsp,32.0
+banana,1 sliced,1 slices,35.0
+honey,1 tsp,1 tsp,7.0
+chia seeds dried,1 tbsp,1 tbsp,12.0
+yogurt,¼ cup,0.25 cup,61.2
+nachos with cinnamon sugar,½ tsp,0.5 tsp,1.3
+turkey breast raw,180g sliced,180g,180.0
+whole grain wheat flour,1 large,1 large,75.0
+avocado,¼ mashed,0.25 mashed,50.0
+pasta with meatballs in tomato sauce,sliced,sliced,123.0
+cucumber,sliced,sliced,200.0
+mustard,1 tbsp,1 tbsp,15.0
+feta cheese,20g,20g,20.0
+olive oil,½ tsp,0.5 tsp,2.2
+cottage cheese creamed,1 cup,1 cup,226.0
+strawberry topping,½ cup,0.5 cup,76.0
+honey,1 tsp,1 tsp,7.0
+walnut,15g,15g,15.0
+oats,2 tbsp toasted,2 tbsp,20.0
+chia seeds dried,1 tsp,1 tsp,4.0
+nachos with cinnamon sugar,pinch,pinch,0.3
+shrimp cooked,200g,200g,200.0
+whole grain wheat flour,100g dry,100g,100.0
+pasta with meatballs in tomato sauce,3 chopped,3 chopped,369.0
+garlic,3 cloves,3 cloves,12.0
+olive oil,2 tbsp,2 tbsp,28.0
+basil dried,1 tsp,1 tsp,1.0
+lemon chicken,squeeze,squeeze,9.6
+paprika,½ tsp,0.5 tsp,1.1
+yogurt,1 cup,1 cup,245.0
+banana,1 sliced,1 slices,35.0
+mango,½ cup,0.5 cup,82.5
+honey,1 tbsp,1 tbsp,21.0
+granola,¼ cup — oats toasted,0.25 cup,30.0
+chia seeds dried,1 tbsp,1 tbsp,12.0
+pomegranate,seeds,seeds,15.0
+tuna canned,1 can,1 can,140.0
+avocado,½ mashed,0.5 mashed,100.0
+whole grain wheat flour,2 slices toast,2 slices,70.0
+pasta with meatballs in tomato sauce,sliced,sliced,123.0
+red wine vinegar,½ tsp,0.5 tsp,2.5
+mustard,½ tsp,0.5 tsp,2.5
+lemon chicken,squeeze,squeeze,9.6
+paprika,pinch,pinch,0.3
+banana,1 frozen,1 frozen,118.0
+yogurt,¾ cup,0.75 cup,183.8
+peanut butter,1 tbsp,1 tbsp,16.0
+oats,¼ cup,0.25 cup,22.5
+honey,1 tsp,1 tsp,7.0
+chia seeds dried,1 tbsp,1 tbsp,12.0
+flaxseeds,1 tsp,1 tsp,3.5
+nachos with cinnamon sugar,pinch,pinch,0.3

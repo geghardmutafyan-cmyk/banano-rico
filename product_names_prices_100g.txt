@@ -1,0 +1,2396 @@
+Unnamed: 0,food,price_per_100g_amd
+0,cream cheese,900
+1,neufchatel cheese,900
+2,requeijao cremoso light catupiry,300
+3,ricotta cheese,900
+4,cream cheese low fat,900
+5,cream cheese fat free,900
+6,gruyere cheese,1800
+7,cheddar cheese,900
+8,parmesan cheese,1400
+9,romano cheese,1400
+10,parmesan cheese grated,1400
+11,port salut cheese,1400
+12,swiss cheese,1400
+13,goat cheese hard,900
+14,gouda cheese,1400
+15,pepper jack cheese lucerne,900
+16,caraway cheese,1000
+17,gjetost cheese,1800
+18,tilsit cheese,1000
+19,goat cheese,900
+20,brick cheese,1000
+21,asadero cheese,1000
+22,camembert cheese,1800
+23,provolone cheese reduced fat,1400
+24,roquefort cheese,1800
+25,queso blanco cheese,1000
+26,queso seco cheese,1000
+27,goat cheese soft,900
+28,mozzarella cheese,900
+29,chihuahua cheese,1000
+30,limburger cheese,1800
+31,muenster cheese,1400
+32,queso fresco cheese,1000
+33,brie cheese,1800
+34,pimento cheese,1000
+35,mexican cheese,1000
+36,feta cheese,900
+37,mozzarella cheese fat free,900
+38,provolone cheese,1400
+39,anejo cheese,1000
+40,honey,700
+41,apple butter,350
+42,fruit jam,350
+43,chocolate hazelnut spread,700
+44,peanut butter,700
+45,peanut spread,400
+46,chicken spread,400
+47,cheese spread,1000
+48,tahini,800
+49,orange marmalade,350
+50,american cheese spread,900
+51,apricot jam,350
+52,chunky peanut butter,700
+53,ham and cheese spread,1000
+54,chicken and rice casserole homade,200
+55,picnic loaf,300
+56,corn tamale,160
+57,baked potato with cheese sauce bacon,1000
+58,chinese egg roll,400
+59,butter croissant,700
+60,enchilada with cheese beef,1000
+61,corned beef hash with potatoes,140
+62,biscuit with egg cheese bacon,1000
+63,bagel with ham egg cheese,1000
+64,quesadilla with chicken,900
+65,corn rice,200
+66,kung pao chicken,900
+67,beef empanada,1400
+68,frijoles with cheese,1000
+69,burrito with beef,1400
+70,crispy chicken sandwich,900
+71,enchilada with cheese,1000
+72,pork egg roll,900
+73,corn on the cob with butter,700
+74,pancakes with butter syrup,700
+75,burrito with beans,190
+76,scrambled eggs,250
+77,baked potato with sour cream,350
+78,turkey and gravy,150
+79,chicken egg roll,900
+80,vegetable egg roll,400
+81,ham cheese roll,1000
+82,biscuit with ham,220
+83,lemon chicken,200
+84,hummus,500
+85,croissant with egg cheese,1000
+86,enchirito with cheese beef beans,1000
+87,sweet sour pork,900
+88,crab cake,2000
+89,egg dinner roll,300
+90,english muffin with egg cheese sausage,1000
+91,buttermilk pancakes,700
+92,omelet,300
+93,taco with chicken cheese lettuce,1000
+94,spinach souffle,200
+95,english muffin with cheese sausage,1000
+96,potato gratin,140
+97,biscuit with egg,220
+98,french fries deep fried,300
+99,sweet sour chicken,900
+100,burrito with beans beef,190
+101,nachos with cinnamon sugar,140
+102,arroz con grandules,300
+103,chili con carne,150
+104,arroz con abichuelas,300
+105,biscuit with sausage,220
+106,vegetarian stew,150
+107,chicken sandwich with cheese,1000
+108,biscuit with egg steak,220
+109,taco salad,200
+110,succotash,300
+111,nachos with cheese jalapeno peppers,1000
+112,biscuit with egg ham,220
+113,ladyfingers,300
+114,mozzarella steak fried,900
+115,tamale navajo,400
+116,blueberry pancakes,250
+117,chimichanga with beef cheese,1000
+118,egg cheese sandwich,1000
+119,biscuit with egg bacon,220
+120,pupusas con queso,300
+121,apple croissant,350
+122,refried red beans,190
+123,tostada with guacamole,300
+124,chicken sandwich,900
+125,fried rice,200
+126,pupusas del cerdo,300
+127,turkey pot pie,500
+128,cheese croissant,1000
+129,chimichanga with beef,1400
+130,french toast with butter,700
+131,ham egg cheese sandwich,1000
+132,english muffin with butter,700
+133,savoury noodle one pan dinner tandaco,200
+134,ham cheese sandwich,1000
+135,sweet gefilte fish,800
+136,poached egg,250
+137,tostada with beef cheese,1000
+138,tostada with beans cheese,1000
+139,pork tamale,900
+140,nachos with cheese,1000
+141,pulled pork in barbecue sauce,300
+142,baked potato with cheese sauce,1000
+143,baked beans,190
+144,arroz con frijoles,300
+145,taco with beef cheese lettuce,1000
+146,burrito with beans cheese beef,1000
+147,egg mix,300
+148,falafel,300
+149,taco salad with chili con carne,200
+150,wonton wrappers,400
+151,hushpuppies,500
+152,chicken pot pie,900
+153,general tsos chicken,900
+154,burrito with beans cheese,1000
+155,vegetarian fillets,300
+156,biscuit with egg sausage,220
+157,chicken chow mein,900
+158,fruit burrito,400
+159,arroz con leche,300
+160,caramel custard flan,500
+161,gelatin dessert,400
+162,chocolate milk dessert,150
+163,chocolate mousse,90
+164,dulce de leche,300
+165,apple crisp,200
+166,spinach spaghetti cooked,120
+167,corn pasta cooked,120
+168,spaghetti with meat sauce,200
+169,pasta with meatballs in tomato sauce,200
+170,cheese tortellini,1000
+171,pasta with sliced franks in tomato sauce,200
+172,lasagna,250
+173,macaroni cheese,1000
+174,vegetable lasagna,250
+175,spinach egg noodles cooked,120
+176,cheese lasagna,1000
+177,pasta with tomato sauce,200
+178,spinach pasta cooked,120
+179,vegetable chicken soup,900
+180,bean ham soup,190
+181,cream of chicken soup,400
+182,tomato soup canned,120
+183,egg drop soup,150
+184,scotch broth,150
+185,cream of onion soup,400
+186,chicken broth dry,900
+187,vegetable soup with beef broth,1400
+188,chili with beans canned,130
+189,beef noodle soup,200
+190,consomme dry,150
+191,chicken mushroom soup,300
+192,beef vegetable soup,1400
+193,black bean soup,200
+194,split pea soup with ham bacon,200
+195,cream of mushroom soup,400
+196,green pea soup,150
+197,chicken broth soup,900
+198,chicken mushroom chowder soup,300
+199,chicken dumplings soup,900
+200,chicken vegetable soup,900
+201,turkey vegetable soup,150
+202,wonton soup,400
+203,beef stock,1400
+204,mushroom barley soup,300
+205,gazpacho soup,150
+206,beef mushroom soup,300
+207,chicken rice soup,200
+208,pepperpot soup,180
+209,vegetable soup,150
+210,chili beef soup,1400
+211,chicken soup,900
+212,bean with frankfurters soup,190
+213,pea soup,150
+214,turkey soup,150
+215,stockpot soup,150
+216,hot sour soup,150
+217,cheese soup,1000
+218,cream of potato soup,400
+219,bean with bacon soup,190
+220,fish stock,800
+221,split pea soup with ham,200
+222,beef broth soup,1400
+223,lentil soup with ham,200
+224,tomato soup,180
+225,fish broth,800
+226,chili without beans canned,130
+227,minestrone soup,150
+228,clam chowder soup,2000
+229,tomato vegetable soup,180
+230,cream of rice coup,200
+231,cream of celery soup,400
+232,chicken gravy,150
+233,tomato rice soup,200
+234,vegetable beef soup,1400
+235,tomato beef noodle soup,200
+236,oyster stew soup,2000
+237,ramen noodle soup dry,200
+238,chicken noodle soup,200
+239,chicken bouillon dry,900
+240,cream of asparagus soup,400
+241,turkey noodle soup,200
+242,cream of shrimp soup,400
+243,bean with pork soup,190
+244,chicken broth,900
+245,beef broth powder,1400
+246,split pea soup,200
+247,escarole soup,150
+248,chicken stock,900
+249,tomato bisque soup,180
+250,shark fin soup,150
+251,onion soup,150
+252,chicken gumbo soup,900
+253,crab soup,2000
+254,tripe soup,500
+255,little india little lunch,300
+256,original chicken sandwich chick fil a,600
+257,sausage mcmuffin mcdonalds,300
+258,sausage mcgriddles mcdonalds,400
+259,crispy chicken drumstick kentucky fried chicken,550
+260,chicken crispy drumsticks kentucky fried chicken,550
+261,biscuit kentucky fried chicken,550
+262,english muffin mcdonalds,300
+263,french fries mcdonalds,350
+264,hotdog,900
+265,french fries burger king,350
+266,original taco with beef cheese lettuce taco bell,400
+267,hotdog with chili,900
+268,chicken crispy wings kentucky fried chicken,550
+269,egg white delight mcdonalds,400
+270,french toast sticks burger king,600
+271,mcchicken mcdonalds,550
+272,nachos supreme taco bell,400
+273,crispy chicken wing kentucky fried chicken,550
+274,chicken strips burger king,600
+275,crispy chicken breast kentucky fried chicken,550
+276,sausage biscuit mcdonalds,300
+277,sausage burrito mcdonalds,400
+278,onion rings fried,150
+279,onion rings burger king,600
+280,turkey patty fried,300
+281,hotcakes with syrup mcdonalds,300
+282,crispy chicken thigh kentucky fried chicken,550
+283,corn dog,160
+284,chicken box mcdonalds,550
+285,potato wedges kentucky fried chicken,550
+286,scrambled eggs mcdonalds,400
+287,egg mcmuffin mcdonalds,300
+288,nachos taco bell,400
+289,biscuit large mcdonalds,300
+290,crispy chicken strips kentucky fried chicken,550
+291,hotcakes mcdonalds,300
+292,chicken crispy breast kentucky fried chicken,550
+293,hotcakes sausage mcdonalds,300
+294,chicken mcnuggets mcdonalds,550
+295,chips chipotle,350
+296,biscuit mcdonalds,300
+297,rice bowl with chicken,200
+298,spaghetti with meatballs,200
+299,meat ravioli canned,300
+300,cheese ravioli canned,1000
+301,premium crispy chicken ranch blt sandwich mcdonalds,600
+302,steak sandwich,80
+303,cheeseburger burger king,600
+304,cheeseburger mcdonalds,600
+305,double cheeseburger,1000
+306,double hamburger,1000
+307,premium grilled chicken classic sandwich mcdonalds,600
+308,big n tasty with cheese mcdonalds,400
+309,premium grilled chicken club sandwich mcdonalds,600
+310,quarter pounder mcdonalds,400
+311,premium crispy chicken classic sandwich mcdonalds,600
+312,veggie burger,300
+313,quarter pounder with cheese mcdonalds,400
+314,beef sandwich steak raw,80
+315,cheeseburger,1000
+316,premium grilled chicken ranch blt sandwich mcdonalds,600
+317,double whopper with cheese burger king,600
+318,big mac mcdonalds,400
+319,sandwich with cold cuts,300
+320,filet o fish mcdonalds,400
+321,hand breaded chicken tenders carls jr,550
+322,grilled chicken sandwich wendys,600
+323,sandwich with roast beef,1400
+324,hamburger burger king,600
+325,big n tasty mcdonalds,400
+326,roast beef sandwich,1400
+327,roast beef sandwich with cheese,1000
+328,hamburger,1000
+329,premium fish sandwich burger king,600
+330,whopper burger king,600
+331,sandwich with tuna salad,200
+332,original chicken sandwich burger king,600
+333,double whopper burger king,600
+334,premium crispy chicken club sandwich mcdonalds,600
+335,hamburger mcdonalds,600
+336,pepperoni pizza dominos,450
+337,sausage pizza,400
+338,pepperoni pizza,180
+339,pepperoni pizza pizza hut,450
+340,cheese pizza pizza hut,450
+341,cheese pizza,1000
+342,cheese pizza dominos,450
+343,meat vegetable pizza,450
+344,sucker raw,300
+345,northern pike raw,300
+346,haddock cooked,800
+347,burbot cooked,300
+348,pollock cooked,800
+349,rainbow smelt raw,300
+350,whitefish cooked,800
+351,walleye pike raw,300
+352,carp cooked,300
+353,wolffish cooked,800
+354,snapper cooked,300
+355,roe cooked,300
+356,anchovy raw,800
+357,herring raw,800
+358,cod raw,800
+359,tilapia raw,800
+360,whiting cooked,300
+361,skipjack tuna cooked,1600
+362,salmon cooked,1600
+363,chum salmon cooked,1600
+364,american shad cooked,300
+365,shark cooked,300
+366,trout cooked,1600
+367,swordfish raw,1600
+368,rainbow trout cooked,1600
+369,fish sandwich with cheese,1000
+370,jellyfish dried,350
+371,mullet raw,300
+372,halibut cooked,1600
+373,lingcod raw,800
+374,orange roughy cooked,200
+375,cisco raw,300
+376,florida pompano cooked,300
+377,snapper raw,300
+378,fish sandwich,800
+379,haddock raw,800
+380,ocean perch raw,800
+381,cuttlefish cooked,2000
+382,cod cooked,800
+383,seatrout raw,1600
+384,flounder raw,300
+385,spot cooked,300
+386,walleye pike cooked,300
+387,perch raw,800
+388,pumpkin seed sunfish raw,130
+389,salt mackerel,50
+390,mackerel cooked,800
+391,tilapia cooked,800
+392,drum raw,2000
+393,atlantic croaker fried,300
+394,pumpkin seed sunfish cooked,130
+395,wolffish raw,800
+396,bluefin tuna cooked,1600
+397,scup cooked,300
+398,herring cooked,800
+399,bluefish raw,800
+400,sheepshead cooked,300
+401,bass cooked,300
+402,pout cooked,300
+403,chinook salmon raw,1600
+404,rockfish raw,800
+405,tilefish raw,800
+406,scup raw,300
+407,sablefish cooked,800
+408,tuna salad,200
+409,coho salmon cooked,1600
+410,roe raw,300
+411,sea bass raw,1600
+412,pink salmon cooked,1600
+413,sockeye salmon cooked,1600
+414,whitefish raw,800
+415,greenland halibut cooked,1600
+416,northern pike cooked,300
+417,salmon raw,1600
+418,turbot cooked,300
+419,surimi,300
+420,chinook salmon cooked,1600
+421,mullet cooked,300
+422,chum salmon raw,1600
+423,butterfish raw,700
+424,sea bass cooked,1600
+425,greenland halibut raw,1600
+426,halibut raw,1600
+427,sturgeon cooked,1600
+428,fish fillet fried,700
+429,rainbow trout raw,1600
+430,pout raw,300
+431,rainbow smelt cooked,300
+432,monkfish raw,800
+433,trout raw,1600
+434,shark raw,300
+435,burbot raw,300
+436,dolphinfish cooked,800
+437,crayfish cooked,2000
+438,dolphinfish raw,800
+439,perch cooked,800
+440,cusk raw,300
+441,bluefin tuna raw,1600
+442,milkfish cooked,150
+443,carp raw,300
+444,sturgeon raw,1600
+445,orange roughy raw,200
+446,catfish fried,800
+447,cuttlefish raw,2000
+448,bass raw,300
+449,flounder cooked,300
+450,milkfish raw,150
+451,eel raw,300
+452,catfish raw,800
+453,fish sticks,700
+454,coho salmon raw,1600
+455,monkfish cooked,800
+456,yellowtail cooked,300
+457,yellowfin tuna cooked,1600
+458,ling cooked,300
+459,eel cooked,300
+460,sablefish raw,800
+461,salmon nuggets,1600
+462,yellowtail raw,300
+463,butterfish cooked,700
+464,caviar,9000
+465,pollock raw,800
+466,catfish cooked,800
+467,whiting raw,300
+468,pink salmon raw,1600
+469,yellowfin tuna raw,1600
+470,mackerel raw,800
+471,turbot raw,300
+472,cusk cooked,300
+473,atlantic croaker raw,300
+474,sucker cooked,300
+475,spot raw,300
+476,drum cooked,2000
+477,crayfish raw,2000
+478,tilefish cooked,800
+479,bluefish cooked,800
+480,grouper cooked,300
+481,sheepshead raw,300
+482,herring kippered,900
+483,grouper raw,300
+484,ocean perch cooked,800
+485,ling raw,300
+486,lingcod cooked,800
+487,florida pompano raw,300
+488,rockfish cooked,800
+489,seatrout cooked,1600
+490,sockeye salmon raw,1600
+491,swordfish cooked,1600
+492,american shad raw,300
+493,sardine canned in oil,500
+494,anchovy canned in oil,500
+495,salmon canned,700
+496,sardines in tomato sauce canned,200
+497,sockeye salmon canned,700
+498,tuna canned,700
+499,pink salmon canned,700
+500,cod canned,450
+501,eastern oyster canned,2000
+502,chum salmon canned,700
+503,tuna canned in oil,500
+504,wild pink salmon oceans,1600
+505,shrimp canned,1500
+506,alaska king crab raw,2000
+507,scallops fried,2000
+508,shrimp cooked,1500
+509,clams fried,2000
+510,alaska king crab cooked,2000
+511,scallops cooked,2000
+512,squid fried,2000
+513,oyster raw,2000
+514,abalone,2000
+515,queen crab raw,2000
+516,whelk cooked,300
+517,oyster cooked,2000
+518,eastern oyster cooked,2000
+519,blue mussels cooked,2000
+520,octopus raw,2000
+521,spiny lobster cooked,2000
+522,blue mussels raw,2000
+523,queen crab cooked,2000
+524,dungeness crab cooked,2000
+525,dungeness crab raw,2000
+526,shrimp fried,1500
+527,shrimp raw,1500
+528,blue crab cooked,2000
+529,shrimp imitation,1500
+530,conch baked,300
+531,squid raw,2000
+532,scallop raw,2000
+533,lobster raw,2000
+534,scallop imitation,2000
+535,blue crab raw,2000
+536,whelk raw,300
+537,spiny lobster raw,2000
+538,clams canned,2000
+539,lobster cooked,2000
+540,eastern oyster fried,2000
+541,clams raw,2000
+542,octopus cooked,2000
+543,eastern oyster raw,2000
+544,oyster fried,2000
+545,sturgeon smoked,1800
+546,chinook salmon smoked,1800
+547,cisco smoked,300
+548,haddock smoked,900
+549,whitefish smoked,1000
+550,red salmon sockeye filets smoked,1800
+551,eggnog,300
+552,beer light,130
+553,beer budweiser,130
+554,weizenbier erdinger,130
+555,beer light budweiser,130
+556,beer,130
+557,root beer,130
+558,whiskey sour mix,2000
+559,whiskey sour,2000
+560,tequila sunrise,2000
+561,daiquiri,300
+562,pina colada,90
+563,whiskey,2000
+564,rum,2000
+565,vodka smirnoff,2000
+566,coffee liqueur,900
+567,gin,2000
+568,dessert wine sweet,380
+569,chenin blanc white wine,380
+570,gamay red wine,380
+571,late harvest white wine,380
+572,gewurztraminer white wine,380
+573,burgundy red wine,600
+574,zinfandel red wine,600
+575,muller thurgau white wine,380
+576,mouvedre red wine,380
+577,table wine,380
+578,wine light,380
+579,white wine,380
+580,petite sirah red wine,380
+581,non alcoholic wine,380
+582,pinot noir red wine,600
+583,pinot gris grigio white wine,600
+584,riesling white wine,600
+585,barbera red wine,380
+586,lemberger red wine,380
+587,merlot red wine,600
+588,sangiovese red wine,380
+589,sauvignon blanc white wine,600
+590,syrah red wine,600
+591,carignane red wine,380
+592,pinot blanc white wine,600
+593,semillon white wine,380
+594,dessert wine dry,380
+595,red wine,380
+596,cabernet sauvignon red wine,600
+597,muscat white wine,380
+598,cooking wine,380
+599,chardonnay white wine,600
+600,claret red wine,380
+601,rice sake,200
+602,fume blanc white wine,380
+603,cabarnet franc red wine,380
+604,chocolate frosting,90
+605,white sugar,120
+606,egg substitute,300
+607,agave syrup,1200
+608,splenda sweetener,600
+609,vanilla extract,2000
+610,egg yolk dried,250
+611,granulated sugar,120
+612,baking chocolate,600
+613,bakers yeast,300
+614,fondant,700
+615,brown sugar,120
+616,white frosting dry,300
+617,maple sugar,140
+618,fructose sweetener,600
+619,saccharin sweetener,600
+620,egg white raw,250
+621,turbinado sugar,140
+622,vanilla frosting,300
+623,aspartame sweetener,600
+624,egg raw,250
+625,pineapple topping,200
+626,egg white dried,250
+627,egg yolk raw,250
+628,baking soda,200
+629,egg dried,900
+630,strawberry topping,200
+631,bakers yeast dry,300
+632,almond paste,700
+633,cream of tartar,400
+634,popover dry mix,300
+635,egg substitute powder,300
+636,gelatin powder,400
+637,tapioca pearls,250
+638,baking powder,200
+639,egg boiled,250
+640,millet flour,150
+641,triticale flour,150
+642,corn flour white,150
+643,rice flour brown,200
+644,sorghum flour,150
+645,cornmeal whole grain,160
+646,cornmeal white,160
+647,barley flour,150
+648,safflower seed meal,600
+649,sesame flour,150
+650,whole grain wheat flour,150
+651,corn flour yellow,150
+652,corn flour whole grain,150
+653,cottonseed flour low fat,150
+654,sunflower seed flour,150
+655,sesame meal,300
+656,acorn flour,150
+657,rice flour white,200
+658,sesame flour low fat,150
+659,potato flour,150
+660,cornmeal yellow,160
+661,rye flour,150
+662,arrowroot flour,150
+663,chickpea flour,500
+664,wheat flour,150
+665,cornstarch,150
+666,carob flour,150
+667,buckwheat flour,150
+668,pecan pie,500
+669,apple pie,450
+670,vanilla wafer pie crust,380
+671,chocolate pie crust,90
+672,apple strudel,200
+673,chocolate snack cake,90
+674,fruit fried pie,500
+675,pumpkin pie,450
+676,corn cake,160
+677,sponge snack cake,500
+678,danish pastry with nuts,350
+679,chocolate cream pie,520
+680,angel food cake,500
+681,lemon meringue pie,500
+682,danish pastry with cinnamon,350
+683,cinnamon coffeecake,100
+684,cheesecake,1000
+685,fruitcake,500
+686,egg custard,300
+687,mince pie,500
+688,yellow cake with chocolate frosting,90
+689,danish pastry with fruit,350
+690,white cake with coconut frosting,600
+691,danish pastry with cheese,1000
+692,graham cracker pie crust,1000
+693,blueberry pie,450
+694,yellow cake with vanilla frosting,500
+695,pie crust,500
+696,chocolate cake with chocolate frosting,90
+697,cheese coffeecake,1000
+698,vanilla cream pie,480
+699,pineapple cake,200
+700,peach pie,200
+701,fruit coffeecake,100
+702,pound cake,500
+703,pound cake bread,180
+704,white cake,500
+705,coffeecake with chocolate frosting,90
+706,popcorn cake,300
+707,banana cream pie,480
+708,baked apple pie mcdonalds,350
+709,sponge cake,500
+710,yellow cake,500
+711,shortcake,500
+712,cherry pie,450
+713,dutch apple pie,200
+714,chocolate cake,90
+715,marshmallow,500
+716,sugar apple,140
+717,toffee,500
+718,vanilla fudge with nuts,600
+719,peanuts chocolate coated,90
+720,caramel with nuts chocolate coated,90
+721,gingerbread,180
+722,rolo nestle,700
+723,vanilla fudge,500
+724,halavah,300
+725,praline,500
+726,fruit juice bar,130
+727,peanut brittle,350
+728,butterscotch,700
+729,chocolate coffee beans,90
+730,nougat with almonds,1200
+731,carob,300
+732,peanut butter fudge,700
+733,sugar coated almonds,140
+734,chocolate coated marshmallow,90
+735,raisins chocolate coated,90
+736,chewing gum sugarless,140
+737,chewing gum,1000
+738,chocolate syrup,250
+739,chocolate fudge syrup,250
+740,m ms milk chocolate mars,700
+741,milk chocolate with almonds,750
+742,chocolate fudge,90
+743,milk chocolate with rice cereal,750
+744,m ms peanut chocolate mars,700
+745,dark chocolate,90
+746,chocolate semisweet,90
+747,after eight mints nestle,400
+748,milk chocolate,750
+749,white chocolate,90
+750,chocolate,90
+751,twix mars,700
+752,kit kat nestle,700
+753,snickers mars,700
+754,milky way mars,150
+755,clif bar,300
+756,gum drops,500
+757,skittles wild berry mars,700
+758,skittles original mars,2000
+759,skittles tropical mars,700
+760,fruit leather,300
+761,taffy,500
+762,eisbonbons mac iver,300
+763,caramels,500
+764,hard candy,500
+765,jellybeans,350
+766,jellies,300
+767,wheat germ toasted,250
+768,crispy brown rice,200
+769,bran flakes asda,400
+770,amaranth cooked,300
+771,triticale,300
+772,barley raw,300
+773,bulgur dry,300
+774,cottonseed kernels roasted,600
+775,rice bran,200
+776,chaptti roti indian bread,180
+777,quinoa cooked,300
+778,dar vida swiss original,2000
+779,teff cooked,300
+780,couscous dry,250
+781,weetabix weetabix,400
+782,oat bran cooked,200
+783,buckwheat cooked,300
+784,millet puffed,300
+785,oat bran raw,200
+786,popcorn oil popped,300
+787,kamut cooked,300
+788,wheat bran,250
+789,cheese popcorn,1000
+790,raisin bran crunch kelloggs,400
+791,couscous cooked,150
+792,multigrain cheerios general mills,400
+793,bulgur cooked,300
+794,popcorn air popped,300
+795,teff raw,300
+796,spelt cooked,300
+797,millet raw,300
+798,popcorn unpopped,300
+799,whole wheat cooked,300
+800,wheat sprouted,300
+801,whole wheat dry,300
+802,caramel popcorn,400
+803,wheat puffed,300
+804,roggenmischbrot sonnenblumenkerne aldi,300
+805,wheat germ,250
+806,microwave popcorn,300
+807,millet cooked,300
+808,kamut raw,300
+809,wheat durum,2000
+810,sorghum,300
+811,white wheat,300
+812,rye,300
+813,spelt raw,300
+814,buckwheat raw,300
+815,honey cereali general mills,400
+816,barley cooked,300
+817,oats,200
+818,amaranth raw,300
+819,semolina,300
+820,quinoa dry,300
+821,wheat shredded,300
+822,cattail,300
+823,peanut granola bar,450
+824,vanilla bluberry bar kind,300
+825,coconut granola bar,450
+826,almond granola bar,450
+827,chocolate chip granola bar,450
+828,fruit granola bar,450
+829,granola bar,450
+830,peanut bar,350
+831,milk cereal bar,150
+832,almond rice bar,200
+833,fruit nut squares,600
+834,rice wheat cereal bar,200
+835,crisped rice bar,200
+836,brown rice raw,280
+837,rice pilaf cooked,100
+838,beef flavored rice raw,180
+839,wild rice cooked,100
+840,wild rice raw,280
+841,congee with pork shrimp and squid plus egg,900
+842,white rice pasta cooked,120
+843,chicken flavored rice raw,180
+844,instant white rice raw,180
+845,rice crisps,200
+846,parboiled white rice raw,180
+847,instant white rice cooked,100
+848,rice pilaf raw,180
+849,rice cracker cake,350
+850,parboiled white rice cooked,100
+851,white rice steamed,200
+852,brown rice cake,350
+853,glutinous white rice raw,180
+854,white rice pasta raw,200
+855,glutinous white rice cooked,100
+856,brown rice cooked,100
+857,beef flavored rice cooked,100
+858,white rice cooked,100
+859,chicken flavored rice cooked,100
+860,white rice raw,180
+861,cheese imitation,1000
+862,cheshire cheese,1400
+863,monterey cheese,900
+864,edam cheese,1400
+865,fontina cheese,1400
+866,monterey cheese low fat,900
+867,colby cheese,900
+868,american cheese,900
+869,blue cheese,900
+870,chocolate pudding fat free,200
+871,tapioca pudding,200
+872,tapioca pudding fat free,200
+873,rice pudding,200
+874,corn pudding,200
+875,chocolate pudding,200
+876,lemon pudding,200
+877,vanilla pudding,200
+878,profeel proteiinirahka valio,300
+879,cottage cheese creamed,900
+880,zaziki milfina,220
+881,cottage cheese low fat,900
+882,cottage cheese nonfat,900
+883,vanilla yogurt low fat,220
+884,classique yogurt plain 2 liberte,220
+885,yoplait light strawberry yogurt yoplait,220
+886,vanilla yogurt,220
+887,chocolate yogurt,220
+888,yogurt parfait,220
+889,yogurt,220
+890,chocolate frozen yogurt,220
+891,frozen yogurt,220
+892,yogurt low fat,220
+893,vanilla yoghurt oikos,450
+894,fruit yogurt,220
+895,danone low fat alsafi,300
+896,fruit n yogurt parfait mcdonalds,400
+897,triple zero greek yogurt dannon oikos,450
+898,greek yogurt,450
+899,chocolate rasberry protein mini proteinfx,90
+900,gushers fruit gushers,300
+901,egg fried,250
+902,glucerna abbott,300
+903,sports drink,120
+904,peanut butter cookie protein syntha 6,700
+905,hanfprotein pulver rohkostqualitat veganz,300
+906,smoothie high protein creamy chocolate slimfast,400
+907,egg large,250
+908,boysenberries frozen,300
+909,malt beverage,300
+910,chocolate powder for milk,90
+911,vegetable fruit juice,130
+912,cocoa powder unsweetened,600
+913,coconut milk,180
+914,cocoa powder,600
+915,rice drink,180
+916,coconut water,180
+917,caramel med iced coffee dunkin donuts,400
+918,instant coffee with water decaffeinated,2500
+919,instant coffee powder,2500
+920,instant coffee powder decaffeinated,2500
+921,instant cappuccino powder,100
+922,coffee decaffeinated,100
+923,espresso decaffeinated,100
+924,instant coffee with water,2500
+925,coffee,100
+926,espresso,100
+927,whey protein powder vanilla eas,2200
+928,energy drink sugar free red bull,140
+929,powerade coca cola,120
+930,amp energy pepsi,250
+931,gatorade g2 pepsi,120
+932,amp energy sugar free pepsi,140
+933,energy drink red bull,250
+934,powerade zero ion4 coca cola,120
+935,full throttle coca cola,250
+936,passion fruit juice purple,130
+937,pomegranate juice,150
+938,cranberry apricot juice,130
+939,pineapple juice,150
+940,passion fruit juice yellow,130
+941,orange apricot juice,130
+942,tangerine juice,130
+943,orange juice,150
+944,grapefruit juice,130
+945,pineapple grapefruit juice,130
+946,tamarind nectar,130
+947,apple juice,150
+948,limeade,100
+949,guava nectar,130
+950,orange grapefruit juice,130
+951,orange juice sainsburys,150
+952,cranberry apple juice,150
+953,pineapple orange juice,150
+954,pear nectar,130
+955,blackberry juice,130
+956,lemon juice,130
+957,cranberry grape juice,150
+958,citrus fruit juice,130
+959,prune juice,130
+960,guanabana nectar,130
+961,fruit juice,130
+962,horchata,300
+963,fruit punch,100
+964,apricot nectar,130
+965,orangensaft ja,200
+966,fruchtcocktail granini,300
+967,peach nectar,130
+968,orange pineapple juice,150
+969,cranberry juice,150
+970,white grapefruit juice,130
+971,mango nectar,130
+972,acerola cherry juice,130
+973,apple juice concentrate,150
+974,papaya nectar,130
+975,apple juice martinellis,150
+976,lime juice,130
+977,grape juice,150
+978,water dannon,50
+979,tap water,50
+980,table water,50
+981,fruit flavored water,50
+982,water,50
+983,cola light coca cola,90
+984,lemon lime soda,90
+985,tonic water,90
+986,lemonade low calorie,100
+987,ginger ale,2000
+988,ice tea lemon flavor nestle,80
+989,sprite coca cola,90
+990,cola coca cola,90
+991,cola,90
+992,cream soda,400
+993,club soda,90
+994,pink lemonade,100
+995,grape soda,90
+996,cola without caffeine coca cola,90
+997,white lemonade,100
+998,chocolate soda,90
+999,sweet tea lipton,80
+1000,hibiscus tea,80
+1001,instant lemon tea,80
+1002,pesca tea santal,80
+1003,instant lemon tea sweetened,80
+1004,tea with milk and sugar yorkshire,150
+1005,tea blueberry muffin tekanne,280
+1006,chamomile tea,80
+1007,black tea,80
+1008,herb tea,80
+1009,clam tomato juice,130
+1010,tomato juice,130
+1011,vegetable juice,130
+1012,tomato vegetable juice,130
+1013,carrot juice,130
+1014,acorn dried,250
+1015,fenugreek seeds,600
+1016,peanut topping mcdonalds,400
+1017,beechnuts dried,600
+1018,breadnut tree seeds raw,180
+1019,cumin seeds,600
+1020,pili nuts dried,600
+1021,hazelnuts roasted,1200
+1022,lupins cooked,300
+1023,hazelnuts blanched,1200
+1024,brazilnuts dried,1200
+1025,sunflower seeds dry roasted,400
+1026,ginkgo nuts canned,2000
+1027,peanuts cooked,350
+1028,pumpkin squash seeds dried,130
+1029,cashew nuts raw,1200
+1030,sunflower seeds dried,400
+1031,lotus seeds dried,600
+1032,butternuts dried,700
+1033,sesame seeds dried,400
+1034,breadfruit seeds,180
+1035,pinyon pine nuts dried,3000
+1036,pine nuts dried,3000
+1037,flaxseeds,400
+1038,safflower seed kernels dried,600
+1039,pistachio nuts raw,1200
+1040,peanuts raw,350
+1041,poppy seeds,400
+1042,valencia peanuts raw,350
+1043,spanish peanuts,350
+1044,dill seeds,600
+1045,caraway seeds,600
+1046,acorn raw,160
+1047,almonds roasted,1200
+1048,lotus seeds raw,600
+1049,chestnuts cooked,450
+1050,alfalfa seeds,600
+1051,virginia peanuts roasted,2000
+1052,hazelnuts raw,1200
+1053,anise seeds,600
+1054,macadamia nuts roasted,1200
+1055,studentenfutter alnatura,300
+1056,pumpkin squash seeds roasted,130
+1057,water chestnut raw,450
+1058,chestnuts roasted,450
+1059,ginkgo nuts raw,2000
+1060,almonds raw,1200
+1061,peanuts roasted,350
+1062,sunflower seeds toasted,400
+1063,sisymbrium seeds,600
+1064,breadnut tree seeds dried,180
+1065,pecans raw,1200
+1066,chia seeds dried,400
+1067,japanese chestnuts roasted,450
+1068,sesame seeds toasted,400
+1069,cashew nuts roasted,1200
+1070,lupins raw,300
+1071,mustard seeds ground,600
+1072,mixed nuts roasted,900
+1073,salat mix alestro,300
+1074,chestnuts raw,450
+1075,pistachio nuts roasted,1200
+1076,walnut,1200
+1077,celery seeds,180
+1078,hickorynuts dried,600
+1079,spanish peanuts roasted,350
+1080,woca seeds dried,600
+1081,pecans roasted,1200
+1082,fennel seeds,600
+1083,chinese chestnuts roasted,450
+1084,watermelon seed kernels dried,50
+1085,macadamia nuts raw,1200
+1086,pectin,300
+1087,black walnut dried,1200
+1088,water chestnut canned,450
+1089,ginkgo nuts dried,2000
+1090,virginia peanuts raw,2000
+1091,valencia peanuts roasted,350
+1092,nesfit diet cereal nestle,400
+1093,corn grits cooked,160
+1094,amaranth flakes,300
+1095,granola,450
+1096,muesli with fruit nuts,450
+1097,muesli master crumble,450
+1098,bran flakes,400
+1099,nut cereal,400
+1100,corn flakes,400
+1101,corn grits dry,160
+1102,margarine with yoghurt,220
+1103,sunflower seed butter,900
+1104,hazelnut oil,500
+1105,menhaden fish oil,1800
+1106,cod liver fish oil,1800
+1107,sardine oil,500
+1108,cupu assu oil,500
+1109,lard,300
+1110,sesame butter,800
+1111,margarine spread,350
+1112,lard vegetable oil,500
+1113,shortening,400
+1114,vegetable oil spread,500
+1115,cottonseed oil,500
+1116,vegetable oil spread fat free,500
+1117,soy margarine,350
+1118,margarine with salt,350
+1119,margarine,350
+1120,salmon fish oil,1800
+1121,nutmeg butter oil,500
+1122,almond butter,1400
+1123,sour cream shoprite,350
+1124,ucuhuba butter oil,500
+1125,chicken fat,300
+1126,herring fish oil,1800
+1127,bacon grease,300
+1128,turkey fat,300
+1129,beef tallow,300
+1130,goose fat,300
+1131,duck fat,300
+1132,mutton tallow,300
+1133,grapeseed oil,500
+1134,sheanut oil,500
+1135,almond oil,500
+1136,sunflower oil,500
+1137,cashew butter,1600
+1138,canola oil,500
+1139,babassu oil,500
+1140,teaseed oil,500
+1141,avocado oil,1400
+1142,vegetable palm kernel oil,500
+1143,coconut oil,900
+1144,safflower oil,500
+1145,vegetable oil,500
+1146,apricot kernel oil,500
+1147,peanut oil,500
+1148,poppyseed oil,500
+1149,flaxseed oil,500
+1150,tomatoseed oil,500
+1151,wheat germ oil,250
+1152,sesame oil,500
+1153,corn granola oil,450
+1154,cocoa butter oil,500
+1155,olive oil,1200
+1156,palm kernel oil,500
+1157,mustard oil,500
+1158,rice bran oil,200
+1159,vegetable macaroni dry,200
+1160,chow mein noodles,200
+1161,chinese noodles,200
+1162,vegetable macaroni cooked,120
+1163,corn pasta dry,200
+1164,egg noodles dry,200
+1165,whole wheat spaghetti dry,200
+1166,japanese soba noodles dry,200
+1167,rice noodles dry,200
+1168,spinach spaghetti dry,200
+1169,egg noodles cooked,120
+1170,japanese somen noodles cooked,120
+1171,whole wheat macaroni dry,200
+1172,pasta marinara and ground beef sauce,200
+1173,macaroni raw,200
+1174,spaghetti dry,200
+1175,fusilli cucina,200
+1176,japanese somen noodles dry,200
+1177,pasta cooked,120
+1178,macaroni cooked,120
+1179,spinach egg noodles dry,200
+1180,japanese soba noodles cooked,120
+1181,rice noodles cooked,120
+1182,whole wheat macaroni cooked,120
+1183,spaghetti cooked,120
+1184,whole wheat spaghetti cooked,120
+1185,waffle,250
+1186,baked taco shell,400
+1187,puff pastry,500
+1188,blueberry muffin,280
+1189,bread crumbs,180
+1190,warm cinnamon roll mcdonalds,400
+1191,corn muffin,280
+1192,tortilla,220
+1193,croutons seasoned,300
+1194,buttermilk waffle,700
+1195,flour tortilla,220
+1196,glazed donut,300
+1197,corn tortilla,220
+1198,muffin,280
+1199,croutons,300
+1200,donut with jelly filling,300
+1201,sweet cinnamon rolls,500
+1202,oat bran muffin,280
+1203,french cruller donut,300
+1204,pancakes,250
+1205,chocolate donut,300
+1206,sweet cheese rolls,1000
+1207,eclair,300
+1208,donut with cream filling,400
+1209,fruit toaster pastry,500
+1210,donut,300
+1211,pancakes whole wheat,250
+1212,keikitos,300
+1213,zwieback,300
+1214,chocolate coated donut,300
+1215,waffle toasted,250
+1216,cinnamon toaster pastry,500
+1217,wheat bran bread,180
+1218,white bread,150
+1219,oat bran bread,180
+1220,whole wheat bread natures own,150
+1221,high protein bread dr zaks,350
+1222,wheat bread,150
+1223,egg bread toasted,180
+1224,butter toastbrot ja,700
+1225,vienna bread toasted,150
+1226,vienna bread,150
+1227,protein bread,350
+1228,banana bread,180
+1229,rice bran bread,180
+1230,white fibre wonder bread,180
+1231,focaccia,150
+1232,oat bran bread toasted,180
+1233,rye bread,150
+1234,wheat germ bread,180
+1235,protein bread toasted,350
+1236,oatmeal bread,150
+1237,arepa,300
+1238,raisin bread toasted,180
+1239,cracked wheat bread,150
+1240,garlic bread,180
+1241,rye bread toasted,150
+1242,whole wheat bread,150
+1243,whole wheat bread toasted,150
+1244,pan dulce bread,180
+1245,rice bran bread toasted,180
+1246,pita bread whole wheat,150
+1247,wheat germ bread toasted,180
+1248,pumpernickel bread,150
+1249,frybread,180
+1250,white bread toasted,150
+1251,piki bread,180
+1252,wheat bread toasted,150
+1253,pita bread,150
+1254,potato bread,180
+1255,egg bread,180
+1256,oatmeal bread toasted,150
+1257,cheese bread,1000
+1258,pumpernickel bread toasted,150
+1259,raisin bread,180
+1260,pumpernickel roll,150
+1261,cinnamon raisin bagel,200
+1262,english muffin,280
+1263,rye dinner roll,300
+1264,english muffin whole wheat,280
+1265,dinner roll whole wheat,300
+1266,dinner roll,300
+1267,hotdog roll,900
+1268,bagel,200
+1269,oat bran bagel,200
+1270,pain au chocolat de la boulangerie,350
+1271,egg bagel,200
+1272,english muffin toasted,280
+1273,english muffin whole wheat toasted,280
+1274,biscuit,220
+1275,french roll,300
+1276,oat bran dinner roll,200
+1277,pecan shortbread cookies,180
+1278,oatmeal cookies,550
+1279,chocolate wafers,90
+1280,vanilla wafers low fat,380
+1281,chocolate chip cookies mcdonalds,400
+1282,gingersnap cookies,2000
+1283,biscotti abbracci mulino bianco,550
+1284,chocolate chip cookie,90
+1285,brownie,550
+1286,shortbread cookies,180
+1287,oatmeal cookies with raisins,400
+1288,peanut butter sandwich cookies,700
+1289,sugar cookies,140
+1290,chocolate covered graham crackers,90
+1291,raisin cookies,550
+1292,vanilla wafers,380
+1293,graham crackers,1000
+1294,peanut butter cookies,700
+1295,vanilla sandwich cookie,550
+1296,sugar wafers with creme filling,140
+1297,cheese puffs,1000
+1298,saltine crackers,50
+1299,trail mix,700
+1300,corn cones,160
+1301,chocolate pretzels,90
+1302,french toast sticks,300
+1303,crackers,380
+1304,sesame sticks,300
+1305,cheese crackers,1000
+1306,oriental rice cracker mix,350
+1307,breadsticks,180
+1308,milk crackers,150
+1309,matzo crackers whole wheat,380
+1310,matzo crackers with egg,380
+1311,granola bites,450
+1312,crackers whole wheat,380
+1313,tropical trail mix,700
+1314,soft pretzels,400
+1315,corn tostada shell,160
+1316,matzo crackers,380
+1317,sesame crunch,300
+1318,trail mix with chocolate chips,90
+1319,cracker meal,380
+1320,puffed rice,200
+1321,filinchen gutena,300
+1322,melba toast crackers,380
+1323,matzo crackers with egg onion,150
+1324,cornnuts,160
+1325,bagel chips,200
+1326,pretzels,400
+1327,potato raw,140
+1328,gatto di patate home made,300
+1329,baked potato,140
+1330,potato sticks,500
+1331,potato cooked,140
+1332,vivaldi potatoes sainsburys,140
+1333,potato ham chowder soup,140
+1334,russet potato raw,140
+1335,russet potato baked,140
+1336,french fries,300
+1337,potato scalloped,140
+1338,cottage fries,300
+1339,mashed potatoes,150
+1340,mashed potato with milk and butter,700
+1341,red potato raw,140
+1342,potato pancake,250
+1343,potato puffs,500
+1344,red potato baked,140
+1345,potatoes canned,120
+1346,potato skin raw,140
+1347,shoestring french fries,300
+1348,hash brown potato,140
+1349,baked chips lays,550
+1350,corn chips,160
+1351,nacho cheese tortilla chips low fat,750
+1352,corn chips barbecue,160
+1353,corn chips unsalted,160
+1354,potato chips fat free,500
+1355,sweet chilli kettle baked chips,550
+1356,taro chips,600
+1357,potato chips reduced fat,500
+1358,onion snacks,150
+1359,potato chips cheese,1000
+1360,yuca cassava chips,550
+1361,tortilla chips low fat,220
+1362,ranch flavor tortilla chips,220
+1363,potato chips,500
+1364,tortilla chips,220
+1365,sweet potato chips,500
+1366,nacho cheese tortilla chips,1000
+1367,vegetable chips,550
+1368,taco flavor tortilla chips,220
+1369,potato chips barbecue,500
+1370,pita chips,600
+1371,potato chips sour cream and onion,350
+1372,adobo fresco,300
+1373,chili pepper sauce red,600
+1374,creamy ranch sauce mcdonalds,400
+1375,catsup,200
+1376,chili pepper sauce green,600
+1377,red wine vinegar,150
+1378,fish sauce,800
+1379,coleslaw dressing reduced fat,350
+1380,sour dressing,350
+1381,guava sauce cooked,350
+1382,pizza sauce,200
+1383,sweetn sour sauce mcdonalds,400
+1384,nance syrup,250
+1385,french dressing reduced fat,350
+1386,peppercorn dressing,350
+1387,sorghum syrup,250
+1388,ranch dressing fat free,350
+1389,caesar dressing low calorie,350
+1390,sweet sour dressing,350
+1391,mayonnaise imitation fat free,350
+1392,sofrito,300
+1393,turkey gravy instant,150
+1394,teriyaki sauce,400
+1395,tomato sauce,200
+1396,barbecue sauce kraft,300
+1397,cranberry sauce sweetened,350
+1398,coleslaw dressing,350
+1399,onion gravy dry,150
+1400,corn syrup light,250
+1401,bacon tomato dressing,350
+1402,pancake syrup,250
+1403,balsamic vinegar,150
+1404,ranch dressing reduced fat,350
+1405,barbecue sauce mcdonalds,400
+1406,vinegar oil dressing,500
+1407,poppyseed dressing,350
+1408,honey mustard dressing,350
+1409,french dressing fat free,350
+1410,vinegar,150
+1411,spray dressing,350
+1412,honey mustard dressing fat free,350
+1413,mushroom gravy,150
+1414,white sauce,300
+1415,marinara pasta sauce,200
+1416,tomato sauce with mushrooms,200
+1417,pork gravy powder,150
+1418,beef gravy,150
+1419,green goddess dressing,350
+1420,salsa con queso,200
+1421,cocktail sauce,300
+1422,worcestershire sauce,400
+1423,barbecue sauce,300
+1424,tomato sauce with onions,200
+1425,brown gravy dry,150
+1426,blue cheese dressing light,900
+1427,spanish tomato sauce,200
+1428,oyster sauce,400
+1429,cheese sauce,1000
+1430,hoisin sauce,400
+1431,pickle relish,150
+1432,tomato sauce with herbs cheese,1000
+1433,french dressing,350
+1434,mayonnaise hellmanns,350
+1435,canadian maple syrup,1200
+1436,maple syrup,1200
+1437,barbecue sauce bulls eye,300
+1438,ranch dressing,350
+1439,tomato ketchup mp,200
+1440,mayonnaise light,350
+1441,mayonnaise dressing,350
+1442,malt syrup,250
+1443,gravy dry,150
+1444,cranberry orange relish,200
+1445,caesar dressing,350
+1446,italian dressing,350
+1447,brown gravy instant,150
+1448,roquefort cheese dressing,1800
+1449,blue cheese dressing,900
+1450,duck sauce,1600
+1451,au jus,300
+1452,corn syrup dark,250
+1453,buttermilk dressing light,700
+1454,cider vinegar,150
+1455,tartar sauce,500
+1456,pepper hot sauce,600
+1457,tomato chili sauce,180
+1458,turkey gravy dry,150
+1459,salsa sauce,200
+1460,steak sauce,80
+1461,molasses,250
+1462,italian dressing fat free,350
+1463,plum sauce,200
+1464,chow mein stir fry master foods,350
+1465,beef gravy instant,150
+1466,horseradish,160
+1467,grenadine,300
+1468,tabasco sauce,600
+1469,sweet sour sauce,300
+1470,salsa verde,200
+1471,miso,600
+1472,sprouted soybean cooked,180
+1473,soy flour roasted,150
+1474,soy flour low fat,150
+1475,green soybean cooked,180
+1476,azumaya tofu vitasoy,350
+1477,soy proteins isolate,300
+1478,tofu yogurt,220
+1479,bacon meatless,1000
+1480,meatless chicken fried,900
+1481,soymilk,180
+1482,soy vermicelli,300
+1483,tofu fried,350
+1484,tempeh,350
+1485,koyadofu,300
+1486,meatless meatloaf,300
+1487,soya vanille joghurt alpro,300
+1488,soybean curd cheese,1000
+1489,soy sauce,200
+1490,soybean dry roasted,220
+1491,soybean oil,500
+1492,meatless chicken,900
+1493,soybean cooked,180
+1494,soymilk nonfat,180
+1495,soy flour,150
+1496,soybean lecithin oil,500
+1497,tofu raw,350
+1498,soy chips,550
+1499,green soybean raw,220
+1500,soy proteins concentrate,300
+1501,soybean margarine,350
+1502,chocolate soymilk nonfat,180
+1503,okara,300
+1504,meatless meatballs,300
+1505,vanilla soymilk,180
+1506,soy meal raw,300
+1507,soymilk low fat,180
+1508,sprouted soybean raw,220
+1509,soybean raw,220
+1510,tempeh cooked,350
+1511,vanilla soymilk light,180
+1512,chocolate soymilk,180
+1513,soy oil,500
+1514,natto,600
+1515,chrysanthemum raw,300
+1516,gourd cooked,130
+1517,cauliflower raw,250
+1518,red cabbage raw,300
+1519,broccoli raab raw,250
+1520,napa cabbage cooked,300
+1521,kelp,800
+1522,shallots raw,150
+1523,bamboo shoots raw,300
+1524,jute cooked,300
+1525,red lettuce,200
+1526,broccoli cooked,250
+1527,romanesco raw,300
+1528,eggplant raw,250
+1529,leeks raw,150
+1530,lemongrass citronella,200
+1531,pumpkin cooked,130
+1532,celery cooked,180
+1533,serrano pepper,180
+1534,nopales raw,300
+1535,sweet potato leaves cooked,140
+1536,eggplant cooked,180
+1537,asparagus cooked,400
+1538,rutabaga cooked,160
+1539,parsnips raw,160
+1540,sour pickles,150
+1541,turnip greens cooked,160
+1542,jerusalem artichokes,400
+1543,collard raw,300
+1544,chrysanthemum cooked,300
+1545,oriental radish dried,160
+1546,tomatillos,300
+1547,taro shoots raw,300
+1548,acorn squash raw,160
+1549,leeks dried,400
+1550,cabbage raw,300
+1551,sweet red peppers cooked,180
+1552,sweet red peppers raw,180
+1553,cucumber peeled,180
+1554,purslane raw,300
+1555,peas onions cooked,150
+1556,tomato cooked,180
+1557,taro shoots cooked,300
+1558,scots kale raw,200
+1559,artichoke raw,400
+1560,navy bean sprouts raw,200
+1561,sweet pickles,150
+1562,oriental radish cooked,160
+1563,sweet potato leaves raw,140
+1564,irishmoss,300
+1565,drumstick leaves cooked,2000
+1566,winter squash raw,130
+1567,pumpkin raw,130
+1568,chicory greens,300
+1569,spinach cooked,200
+1570,radish pickled,160
+1571,sweet onion,150
+1572,salsify cooked,300
+1573,radish seeds sprouted,160
+1574,turnips raw,160
+1575,burdock root raw,300
+1576,red cabbage cooked,300
+1577,jute raw,300
+1578,hot chile pepper dried,800
+1579,salsify raw,300
+1580,crookneck squash raw,130
+1581,indian squash cooked,130
+1582,poi,300
+1583,sesbania flower cooked,300
+1584,acorn squash cooked,160
+1585,cauliflower cooked,250
+1586,crookneck squash cooked,130
+1587,laver seaweed,800
+1588,mountain yam cooked,140
+1589,pumpkin flowers raw,130
+1590,mustard greens raw,250
+1591,arrowhead,300
+1592,japanese cabbage,300
+1593,mung bean sprouts cooked,120
+1594,scallop squash cooked,130
+1595,pumpkin leaves cooked,130
+1596,hungarian pepper,180
+1597,sweet potato baked,140
+1598,chinese cabbage pe tsai raw,300
+1599,taro raw,300
+1600,yam bean jicama,140
+1601,olives,500
+1602,mustard greens cooked,250
+1603,pumpkin flowers cooked,130
+1604,tree fern cooked,300
+1605,yellow corn raw,160
+1606,endive,200
+1607,wakame,800
+1608,tahitian taro raw,300
+1609,broccoli raw,250
+1610,sweet green peppers raw,180
+1611,chinese cabbage pak choi cooked,300
+1612,agar,800
+1613,watercress,50
+1614,beet greens cooked,160
+1615,winter squash cooked,130
+1616,new zealand spinach raw,200
+1617,okra,300
+1618,yautia tannier,300
+1619,mustard spinach cooked,250
+1620,rhubarb cooked,300
+1621,beets raw,160
+1622,drumstick pods raw,2000
+1623,baby zucchini,180
+1624,onion raw,150
+1625,romanesco cooked,300
+1626,butternut squash raw,700
+1627,amaranth leaves,300
+1628,turnip greens raw,160
+1629,spaghetti squash raw,200
+1630,seaweed dry,800
+1631,yam cooked,140
+1632,corn dried,250
+1633,cucumber,180
+1634,arrowroot,150
+1635,cardoon raw,300
+1636,bamboo shoots cooked,300
+1637,summer squash raw,130
+1638,sweet potato raw,140
+1639,green tomato,180
+1640,beet greens raw,160
+1641,savoy cabbage cooked,300
+1642,witloof chicory,300
+1643,turnips cooked,160
+1644,dried tomatoes,800
+1645,radicchio,300
+1646,mixed vegetables cooked,300
+1647,yellow tomato,180
+1648,cardoon cooked,300
+1649,spinach raw,200
+1650,kale raw,200
+1651,drumstick pods cooked,2000
+1652,kohlrabi raw,300
+1653,lentil sprouts,200
+1654,carrots raw,160
+1655,red chili peppers,180
+1656,fennel,300
+1657,sweet corn white,160
+1658,celeriac raw,300
+1659,hubbard squash raw,130
+1660,brussels sprouts cooked,250
+1661,carrots cooked,160
+1662,lambs quarters raw,1600
+1663,lotus root cooked,300
+1664,split peas raw,160
+1665,scots kale cooked,200
+1666,corn cooked,160
+1667,radish raw,160
+1668,stinging nettles,2000
+1669,baby carrots,160
+1670,sweet yellow peppers,180
+1671,taro leaves raw,300
+1672,corn raw,160
+1673,roselle,300
+1674,drumstick leaves raw,2000
+1675,scallop squash raw,130
+1676,chicory roots,300
+1677,brussels sprouts raw,250
+1678,kale cooked,200
+1679,pupusas con frijoles,300
+1680,mustard cabbage,250
+1681,gourd raw,130
+1682,butternut squash cooked,700
+1683,burdock root cooked,300
+1684,cassava,300
+1685,peas carrots cooked,160
+1686,romaine lettuce,200
+1687,yam raw,140
+1688,chowchow pickles,150
+1689,prairie turnips raw,160
+1690,savoy cabbage raw,300
+1691,celery raw,180
+1692,celeriac cooked,300
+1693,mustard spinach raw,250
+1694,zucchini raw,180
+1695,okra cooked,300
+1696,white icicle radish,160
+1697,orange tomato,180
+1698,pumpkin leaves raw,130
+1699,spaghetti squash cooked,120
+1700,white corn cooked,160
+1701,artichoke cooked,400
+1702,avocado,400
+1703,string beans wellsley farms,190
+1704,lambs quarters cooked,1600
+1705,peas cooked,160
+1706,beets cooked,160
+1707,shallots dried,400
+1708,green lettuce,200
+1709,kohlrabi cooked,300
+1710,kanpyo dried,300
+1711,prairie turnips boiled,500
+1712,broccoli raab cooked,250
+1713,summer squash cooked,130
+1714,taro cooked,300
+1715,spring onion scallions,150
+1716,hubbard squash cooked,130
+1717,jalapeno pepper,180
+1718,new zealand spinach cooked,200
+1719,sesbania flower raw,300
+1720,spirulina dried,800
+1721,chinese cabbage pe tsai cooked,300
+1722,zucchini cooked,180
+1723,green olives pickled,500
+1724,lotus root raw,300
+1725,grape leaves,200
+1726,dill pickled cucumber,180
+1727,skunk cabbage,300
+1728,banana pepper,180
+1729,oriental radish raw,160
+1730,purslane cooked,300
+1731,rhubarb raw,300
+1732,swamp cabbage,300
+1733,mung bean sprouts raw,190
+1734,onion cooked,150
+1735,swiss chard raw,300
+1736,peas raw,160
+1737,cabbage cooked,300
+1738,taro leaves cooked,300
+1739,leeks cooked,150
+1740,split peas cooked,160
+1741,sweet corn yellow,160
+1742,asparagus raw,400
+1743,collard cooked,300
+1744,swiss chard cooked,300
+1745,nopales cooked,300
+1746,tahitian taro cooked,300
+1747,chinese cabbage pak choi raw,300
+1748,green chili pepper,180
+1749,mountain yam raw,140
+1750,parsnips cooked,160
+1751,tomato stewed,180
+1752,sweet green peppers cooked,180
+1753,white corn raw,160
+1754,rutabaga raw,160
+1755,jalapeno peppers canned,120
+1756,pumpkin canned,110
+1757,peas onions canned,150
+1758,sweet mashed potato canned,150
+1759,hominy canned,300
+1760,tomato puree canned,120
+1761,dried tomatoes canned in oil,500
+1762,mixed vegetables canned,130
+1763,straw mushrooms canned,300
+1764,capers canned,300
+1765,red peppers canned,120
+1766,carrots canned,120
+1767,tomatoes in tomato juice canned,130
+1768,asparagus canned,400
+1769,sweet red peppers canned,120
+1770,onions canned,150
+1771,turnip greens canned,120
+1772,hearts of palm,500
+1773,spinach canned,200
+1774,sweet potato canned,120
+1775,corn canned,110
+1776,peas carrots canned,120
+1777,crookneck squash canned,110
+1778,tomatoes canned,120
+1779,pimento canned,300
+1780,sweet green peppers canned,120
+1781,peas canned,110
+1782,chili peppers canned,120
+1783,green peppers canned,120
+1784,grape leaves canned,170
+1785,sauerkraut canned,150
+1786,beets canned,120
+1787,stewed tomatoes canned,120
+1788,tomato paste canned,120
+1789,bacon ranch salad mcdonalds,250
+1790,caesar salad with grilled chicken mcdonalds,250
+1791,caesar salad mcdonalds,250
+1792,vegetable salad,200
+1793,vegetable salad with chicken,200
+1794,potato salad,140
+1795,taco salad taco bell,250
+1796,iceberg lettuce,200
+1797,cornsalad,160
+1798,potato salad with egg,140
+1799,side salad mcdonalds,250
+1800,caesar salad with crispy chicken mcdonalds,250
+1801,grape apple salad with walnuts,200
+1802,vegetable salad with cheese egg,1000
+1803,celtuce,300
+1804,arugula,200
+1805,vegetable salad with shrimp,200
+1806,coleslaw,300
+1807,shiitake mushrooms cooked,1200
+1808,shiitake mushrooms raw,1200
+1809,crimini mushrooms,300
+1810,mushrooms raw,300
+1811,portabella mushrooms grilled,300
+1812,maitake mushrooms,300
+1813,shiitake mushrooms dried,1200
+1814,chanterelle mushrooms,300
+1815,cloud ear fungus dried,300
+1816,mushrooms cooked,300
+1817,pepeao dried,300
+1818,truffles,15000
+1819,jews ear,300
+1820,enoki mushrooms,300
+1821,morel mushrooms,300
+1822,portabella mushrooms raw,300
+1823,oyster mushroom,300
+1824,nectarine,130
+1825,kiwifruit gold,350
+1826,prickly pear raw,200
+1827,pineapple,200
+1828,rowan,300
+1829,muscadine grapes,200
+1830,heidelbeeren jutro,130
+1831,prunes stewed,400
+1832,tangerine,300
+1833,prunes,400
+1834,lemon peel,200
+1835,banana,200
+1836,raspberries,300
+1837,apricot,200
+1838,strawberry guava,200
+1839,kiwifruit green,350
+1840,figs,350
+1841,clementine,300
+1842,orange,200
+1843,bartlett pear,200
+1844,red white currants,400
+1845,blueberries,300
+1846,mulberries,300
+1847,java plum,200
+1848,prune puree,300
+1849,applesauce,200
+1850,blackberries raw,300
+1851,plum,200
+1852,american grapes,200
+1853,peach,200
+1854,honeydew melon,700
+1855,yellow plantain fried,300
+1856,rose hips,300
+1857,lemons,200
+1858,lime,200
+1859,pomegranate,350
+1860,gooseberries,1600
+1861,asian pear,200
+1862,abiyuch,300
+1863,horned melon kiwano,200
+1864,fruit walnut salad mcdonalds,250
+1865,grapefruit,200
+1866,japanese persimmon,300
+1867,wild raspberries,300
+1868,pink lady apple,200
+1869,maraschino cherries,300
+1870,black currants,400
+1871,plantain cooked,300
+1872,crab apple,200
+1873,pom potes materne,300
+1874,apple,200
+1875,cantaloupe melon,200
+1876,prickly pear cooked,200
+1877,guava,350
+1878,strawberries,300
+1879,japanese persimmon dried,300
+1880,watermelon,50
+1881,elderberries,300
+1882,kumquat,300
+1883,orange peel,200
+1884,pokeberry shoots cooked,300
+1885,breadfruit,180
+1886,pear,200
+1887,sour cherries,300
+1888,plantain raw,300
+1889,blackberries frozen,300
+1890,cherries,300
+1891,plantain fried,300
+1892,carambola starfruit,300
+1893,chayote cooked,300
+1894,apple dippers mcdonalds,400
+1895,white grapefruit,200
+1896,cherimoya,300
+1897,melon balls,200
+1898,golden delicious apple,200
+1899,pokeberry shoots raw,300
+1900,cranberries,300
+1901,quince,300
+1902,chayote raw,300
+1903,orange with peel,200
+1904,chokecherries,300
+1905,mango,350
+1906,wild plum,200
+1907,jeijoa,300
+1908,groundcherries,300
+1909,pesca,300
+1910,persimmon,300
+1911,grapes,200
+1912,rambutan canned,600
+1913,figs canned,220
+1914,prunes canned,400
+1915,pineapples canned,170
+1916,prune plums canned,170
+1917,tangerines canned,300
+1918,fruit cocktail canned,180
+1919,sour cherries canned,300
+1920,mangosteen canned,220
+1921,apricot juice,130
+1922,strawberries canned,300
+1923,peach canned,170
+1924,fruit salad canned,200
+1925,gooseberries canned,1600
+1926,grapefruit canned,170
+1927,pear canned,170
+1928,raspberries canned,300
+1929,papaya canned,220
+1930,grapes canned,170
+1931,apple dried,500
+1932,peach dried,500
+1933,plantain chips,550
+1934,golden raisins,400
+1935,raisins seeded,400
+1936,zante currants dried,400
+1937,pear dried,500
+1938,raisins,400
+1939,prune plums dried,500
+1940,cranberries dried,300
+1941,figs dried,700
+1942,longans dried,600
+1943,banana chips,200
+1944,lychee dried,600
+1945,apricot dried,500
+1946,longan,600
+1947,mamey sapote,300
+1948,waxgourd cooked,130
+1949,jackfruit,600
+1950,loquats,300
+1951,mammy apple mamey,200
+1952,nance,300
+1953,coconut whole coconut,600
+1954,prickly pear,200
+1955,lychee,600
+1956,naranjilla lulo pulp,300
+1957,coconut meat dried,600
+1958,waxgourd raw,130
+1959,surinam cherry pitanga,200
+1960,passion fruit,350
+1961,sapodilla,300
+1962,pummelo,300
+1963,coconut meat,600
+1964,soursop,600
+1965,papaya,350
+1966,acerola cherry,200
+1967,ohelo berries,300
+1968,loganberries,300
+1969,casaba melon,200
+1970,durian,600
+1971,coriander leaves raw,500
+1972,garden cress raw,300
+1973,pasilla peppers dried,800
+1974,parsley dried,400
+1975,ancho pepper dried,800
+1976,coriander seeds,600
+1977,dill weed dried,400
+1978,borage,300
+1979,epazote,300
+1980,chives dried,400
+1981,thyme fresh,400
+1982,butterbur,700
+1983,wasabi root,350
+1984,rosemary dried,400
+1985,ginger root,2000
+1986,white pepper,500
+1987,cloves ground,500
+1988,paprika,500
+1989,mace ground,500
+1990,bay leaf,400
+1991,eppaw,300
+1992,tarragon dried,400
+1993,ginger ground,2000
+1994,savory ground,300
+1995,black pepper,600
+1996,spearmint fresh,200
+1997,poultry seasoning,400
+1998,nutmeg ground,600
+1999,curry powder,500
+2000,peppermint,180
+2001,salt,50
+2002,coriander leaves dried,500
+2003,sage ground,400
+2004,garlic powder,400
+2005,dill weed fresh,400
+2006,cardamom,500
+2007,saffron,18000
+2008,allspice ground,500
+2009,parsley fresh,400
+2010,oregano dried,400
+2011,marjoram dried,400
+2012,chives raw,400
+2013,fireweed leaves,300
+2014,rosemary fresh,400
+2015,garlic,150
+2016,cinnamon ground,500
+2017,chervil dried,300
+2018,cayenne pepper,180
+2019,turmeric ground,500
+2020,mustard,250
+2021,chili powder,500
+2022,thyme dried,400
+2023,spearmint dried,500
+2024,basil dried,400
+2025,dandelion greens cooked,300
+2026,basil fresh,400
+2027,dock,300
+2028,garden cress cooked,300
+2029,onion powder,400
+2030,dandelion greens raw,300
+2031,yokan,300
+2032,fava beans cooked,110
+2033,french beans raw,190
+2034,chickpeas canned,110
+2035,yellow beans cooked,120
+2036,mung beans cooked,120
+2037,white beans canned,130
+2038,pink beans cooked,120
+2039,pink beans raw,190
+2040,navy beans raw,200
+2041,snap beans cooked,160
+2042,black eyed cowpeas raw,160
+2043,edamame cooked,1400
+2044,black eyed cowpeas cooked,160
+2045,hyacinth beans cooked,120
+2046,cowpeas canned,110
+2047,pinto beans cooked,110
+2048,winged beans cooked,120
+2049,pinto beans raw,200
+2050,black turtle beans raw,190
+2051,fava beans raw,200
+2052,lima beans canned,130
+2053,hyacinth beans raw,190
+2054,white beans raw,190
+2055,snap beans canned,110
+2056,navy beans canned,130
+2057,mung beans raw,190
+2058,adzuki beans raw,190
+2059,black turtle beans cooked,120
+2060,pink lentils raw,200
+2061,yellow beans raw,190
+2062,white beans cooked,120
+2063,lentils raw,200
+2064,cranberry beans cooked,350
+2065,chickpeas raw,160
+2066,lentils cooked,110
+2067,baked beans canned,130
+2068,cranberry beans canned,220
+2069,black beans cooked,110
+2070,lima beans cooked,110
+2071,mungo beans raw,190
+2072,pigeon peas raw,160
+2073,fava beans canned,130
+2074,yellow snap beans raw,160
+2075,snap beans raw,160
+2076,yellow snap beans canned,110
+2077,pigeon peas cooked,160
+2078,catjang cowpeas raw,160
+2079,navy beans cooked,110
+2080,mothbeans raw,190
+2081,cowpeas cooked,160
+2082,mothbeans cooked,120
+2083,french beans cooked,120
+2084,lima beans raw,200
+2085,winged beans raw,190
+2086,adzuki beans cooked,120
+2087,black beans raw,200
+2088,catjang cowpeas cooked,160
+2089,baby lima beans cooked,110
+2090,cowpeas raw,160
+2091,shellie beans canned,130
+2092,yardlong beans raw,190
+2093,pinto beans canned,130
+2094,chickpeas cooked,160
+2095,cranberry beans raw,350
+2096,mungo beans cooked,120
+2097,tamarinds,300
+2098,yellow snap beans cooked,160
+2099,yardlong beans cooked,120
+2100,bacon beef steak,80
+2101,lamb foreshank raw,1600
+2102,bacon,1000
+2103,lamb rib cooked,1600
+2104,lamb shank raw,1600
+2105,scrapple,200
+2106,chicken nuggets,900
+2107,ground lamb cooked,1600
+2108,lamb meat cooked,1600
+2109,meat extender,300
+2110,lamb leg raw,1600
+2111,lamb loin cooked,1600
+2112,chicken patty,900
+2113,lamb shank roasted,1600
+2114,barbecue loaf,300
+2115,lamb sirloin cooked,1800
+2116,poultry salad,200
+2117,ground lamb raw,1600
+2118,lamb loin raw,1600
+2119,lamb sirloin raw,1800
+2120,sausage patty mcdonalds,400
+2121,lamb foreshank cooked,1600
+2122,ham salad,200
+2123,lamb rib raw,1600
+2124,lamb shoulder raw,1600
+2125,lamb meat raw,1600
+2126,lamb shoulder cooked,1600
+2127,mutton cooked,1600
+2128,lamb leg cooked,1600
+2129,beef stick,1800
+2130,veal sirloin cooked,1800
+2131,veal rib cooked,1800
+2132,veal meat cooked,1800
+2133,beef rib roasted,1400
+2134,veal sirloin raw,1800
+2135,beef top loin filet grilled,1400
+2136,beef under blade steak cooked,80
+2137,mock tender steak raw,80
+2138,ground beef cooked,1200
+2139,ground beef raw,1200
+2140,beef diced asda,1400
+2141,veal rib raw,1800
+2142,ground veal raw,1800
+2143,t bone steak cooked,80
+2144,veal leg round raw,1800
+2145,beef top sirloin steak raw,80
+2146,beef plate steak grilled,80
+2147,ground veal cooked,1800
+2148,veal leg round cooked,1800
+2149,porterhouse steak raw,80
+2150,veal shank raw,1800
+2151,veal breast cooked,1800
+2152,corned beef canned,110
+2153,rib eye steak grilled,80
+2154,veal shoulder raw,1800
+2155,t bone steak raw,80
+2156,sirloin steak,80
+2157,mock tender steak cooked,80
+2158,beef round steak cooked,80
+2159,chuck blade roast raw,300
+2160,beef shoulder steak raw,80
+2161,beef top blade cooked,1400
+2162,corned beef cooked,160
+2163,beef round steak raw,80
+2164,beef shoulder steak grilled,80
+2165,chuck eye steak raw,80
+2166,beef bottom round steak cooked,80
+2167,porterhouse steak cooked,80
+2168,beef under blade steak raw,80
+2169,beef plate steak raw,80
+2170,beef meat canned,1400
+2171,beef breakfast strips raw,1400
+2172,beef brisket cooked,1400
+2173,corned beef raw,160
+2174,beef mince meat asda,1200
+2175,pastrami beef fat free,1400
+2176,rib eye steak raw,80
+2177,beef tenderloin steak cooked,80
+2178,chuck blade roast cooked,300
+2179,cured beef dried,1400
+2180,beef flank steak cooked,80
+2181,chuck eye steak grilled,80
+2182,veal meat raw,1800
+2183,veal loin cooked,1800
+2184,veal loin raw,1800
+2185,veal shoulder cooked,1800
+2186,beef tenderloin steak raw,80
+2187,veal shank cooked,1800
+2188,beef brisket raw,1400
+2189,pastrami beef,1400
+2190,beef flank steak raw,80
+2191,beef top sirloin steak cooked,80
+2192,veal breast raw,1800
+2193,beef rib raw,1400
+2194,beef jerky,1800
+2195,beef breakfast strips cooked,1400
+2196,pork olive loaf,500
+2197,beef luncheon meat jellied,1400
+2198,turkey pastrami,900
+2199,pork salami,900
+2200,canadian style bacon raw,1000
+2201,honey loaf,700
+2202,pork beef salami,1400
+2203,beef pork bologna,1400
+2204,pork beef salami cooked,1400
+2205,pork breakfast strips raw,900
+2206,pickle pimiento loaf,150
+2207,luxury loaf,300
+2208,mortadella,900
+2209,pork bologna,900
+2210,turkey salami cooked,900
+2211,pepperoni beef,180
+2212,peppered loaf,180
+2213,luncheon meat beef,1400
+2214,lebanon bologna,900
+2215,chicken pork bologna,900
+2216,turkey roll,300
+2217,beef salami cooked,1400
+2218,yachtwurst cooked,300
+2219,italian salami,900
+2220,turkey ham,1000
+2221,turkey bologna,900
+2222,sliced turkey breast,1200
+2223,luncheon meat pork beef,1400
+2224,beef bologna,1400
+2225,turkey bacon cooked,300
+2226,ground emu cooked,300
+2227,ostrich leg raw,300
+2228,ostrich strip raw,300
+2229,emu fillet cooked,300
+2230,ostrich tenderloin raw,1800
+2231,emu drums cooked,2000
+2232,green turtle raw,300
+2233,ground bison cooked,300
+2234,goat meat raw,300
+2235,ground emu raw,300
+2236,ground ostrich raw,300
+2237,ostrich tip cooked,300
+2238,caribou cooked,300
+2239,ground ostrich cooked,300
+2240,ostrich leg cooked,300
+2241,ostrich top loin cooked,300
+2242,ostrich strip cooked,300
+2243,ostrich tip raw,300
+2244,ostrich round raw,300
+2245,ground bison raw,300
+2246,ostrich fan raw,300
+2247,ostrich top loin raw,300
+2248,veal brain cooked,1800
+2249,veal tongue cooked,1800
+2250,beef heart cooked,1400
+2251,turkey liver cooked,500
+2252,veal thymus cooked,1800
+2253,beef brain cooked,1400
+2254,beef pancreas cooked,1400
+2255,beef tripe cooked,1400
+2256,chicken gizzard cooked,900
+2257,pork pancreas cooked,900
+2258,beef tongue cooked,1400
+2259,lamb heart cooked,1600
+2260,beef spleen cooked,1400
+2261,veal kidneys cooked,1800
+2262,chicken heart cooked,900
+2263,lamb tongue cooked,1600
+2264,veal heart cooked,1800
+2265,chicken liver cooked,900
+2266,lamb pancreas cooked,1600
+2267,veal spleen cooked,1800
+2268,lamb liver cooked,1600
+2269,turkey gizzard cooked,500
+2270,lamp spleen cooked,500
+2271,turkey heart cooked,500
+2272,beef liver cooked,1400
+2273,lamb lungs cooked,1600
+2274,pork brain cooked,900
+2275,goose liver,1600
+2276,pork kidneys cooked,900
+2277,lamb brain cooked,1600
+2278,pork heart cooked,900
+2279,lamb kidneys cooked,1600
+2280,beef lungs cooked,1400
+2281,veal pancreas cooked,1800
+2282,pork liver cooked,900
+2283,beef kidneys cooked,1400
+2284,turkey giblets cooked,500
+2285,duck liver raw,1600
+2286,veal liver cooked,1800
+2287,pork lungs cooked,900
+2288,veal lungs cooked,1800
+2289,beef thymus cooked,1400
+2290,ham,1000
+2291,pork meat cooked,900
+2292,bacon roasted,1000
+2293,pork top loin roasts raw,900
+2294,pork blade roll raw,900
+2295,pork backribs raw,900
+2296,pork spareribs cooked,900
+2297,pork stomach cooked,900
+2298,honey smoked ham cooked,700
+2299,boston butt steak raw,80
+2300,pork sirloin chops cooked,1800
+2301,pork country style ribs raw,900
+2302,ham patties,1000
+2303,pork feet cooked,900
+2304,ground pork cooked,900
+2305,pork centre loin chops cooked,900
+2306,pork leg cap steak cooked,80
+2307,pork blade chops raw,900
+2308,pork tenderloin raw,1800
+2309,pork sirloin chops raw,1800
+2310,pork leg cap steak raw,80
+2311,pork carcass raw,900
+2312,pork splean cooked,900
+2313,chopped ham,1000
+2314,pork centre loin chops raw,900
+2315,pork blade chops cooked,900
+2316,boston butt steak cooked,80
+2317,pork meat raw,900
+2318,pork top loin chops raw,900
+2319,pork blade steak braised,80
+2320,pork boston steaks cooked,80
+2321,bacon cooked,1000
+2322,pickled pork hocks,150
+2323,pork boston roast cooked,900
+2324,canadian style bacon grilled,1000
+2325,ham steak,80
+2326,pork backfat,900
+2327,bacon baked,1000
+2328,pork arm picnic raw,900
+2329,salt pork raw,50
+2330,pork arm picnic cooked,900
+2331,pork top loin chops cooked,900
+2332,ground pork raw,900
+2333,pork shoulder raw,1000
+2334,pork chitterlings cooked,900
+2335,pork breakfast strips cooked,900
+2336,pork blade roll roasted,900
+2337,pork tail cooked,900
+2338,pork centre rib roasts raw,900
+2339,pork centre rib roasts roasted,900
+2340,minced ham,1000
+2341,ham roasted,1000
+2342,pork loin raw,1000
+2343,pork backribs roasted,900
+2344,pork belly raw,900
+2345,ham raw,1000
+2346,ham extra lean,1000
+2347,pork feet pickled,150
+2348,pork shoulder cooked,1000
+2349,pork top loin roasts roasted,900
+2350,pork skin,900
+2351,pork country style ribs cooked,900
+2352,pork blade steak raw,80
+2353,pork tenderloin cooked,1800
+2354,pork loin cooked,1000
+2355,pork ears cooked,900
+2356,pork tongue cooked,900
+2357,pork spareribs raw,900
+2358,ham patties grilled,1000
+2359,chicken skin roasted,900
+2360,turkey breast raw,1200
+2361,ground turkey raw,900
+2362,chicken wing cooked,700
+2363,turkey roast roasted,1200
+2364,pheasant meat raw,1600
+2365,chicken back raw,700
+2366,chicken back cooked,700
+2367,chicken leg fried,700
+2368,chicken feet cooked,900
+2369,turkey steak fried,80
+2370,turkey taco meat cooked,400
+2371,chicken leg raw,700
+2372,chicken meat raw,900
+2373,chicken neck cooked,900
+2374,chicken drumstick fried,2000
+2375,quail egg,600
+2376,duck meat cooked,1600
+2377,chicken wing roasted,700
+2378,quail meat cooked,1600
+2379,goose meat cooked,1600
+2380,chicken breast cooked,1100
+2381,chicken neck raw,900
+2382,duck egg,450
+2383,pheasant breast raw,1600
+2384,duck meat raw,1600
+2385,squab meat raw,1600
+2386,chicken drumstick raw,2000
+2387,turkey meat roasted,1200
+2388,chicken breast raw,1100
+2389,ground chicken cooked,900
+2390,turkey wing cooked,300
+2391,goose meat raw,1600
+2392,turkey breast roasted,1200
+2393,chicken fajita strips,900
+2394,crispy chicken strips tyson,900

@@ -1,0 +1,15 @@
+=== Sheet: Diverse Customers ===
+
+name,sex,age_group,height_cm,weight_kg,bodyfat_estimate,primary_goal,speed_preference,hunger_type,discipline_pattern,emotional_eating,protein_preference,carb_preference,flavor_profile,texture_preference,food_complexity,cooking_skill,food_budget,eating_environment,activity_level,training_style,fitness_knowledge,ethical_restriction,allergy,medical_condition
+Alex,male,adult,182,96,high,fat_loss,moderate,stress_hunger,weekend_overeater,stress,chicken,rice,savory,mixed,meal_prep_friendly,basic,medium,office_worker,moderate,gym,intermediate,none,none,none
+Sara,female,adult,165,58,medium,muscle_gain,slow_sustainable,normal_appetite,habit_driven,none,fish,pasta,spicy,soft,variety_seeker,advanced,high,home_based,high,strength,advanced,pescatarian,none,none
+Daniel,male,adult,175,110,high,health_improvement,moderate,binge_prone,all_or_nothing,anxiety,mixed,bread,comfort_food,soft,convenience_based,cannot_cook,low,travel_heavy,sedentary,none,beginner,none,gluten,diabetes
+Emma,female,teen,168,62,low,performance,aggressive,volume_eater,highly_disciplined,none,eggs,fruit,sweet,crunchy,gourmet,basic,medium,student_lifestyle,high,running,intermediate,vegetarian,milk,none
+Michael,male,senior,170,78,medium,maintenance,slow_sustainable,low_appetite,chaotic_schedule,boredom,dairy,potato,bland_simple,liquid,minimalist,basic,medium,home_based,light,walking,beginner,kosher,lactose,gerd
+Nina,female,adult,160,70,medium,recomposition,moderate,night_hunger,motivation_cycles,reward_based,plant_based,low_carb,salty,dry,meal_prep_friendly,advanced,premium,office_worker,moderate,crossfit,advanced,vegan,soy,ibs
+Omar,male,adult,188,92,low,muscle_gain,aggressive,always_hungry,highly_disciplined,none,beef,rice,savory,mixed,variety_seeker,advanced,high,family_based,athlete,sports,advanced,halal,none,none
+Lily,female,adult,158,82,high,fat_loss,slow_sustainable,stress_hunger,drops_plan_after_failure,stress,mixed,fruit,sweet,soft,convenience_based,cannot_cook,very_low,office_worker,light,walking,beginner,none,eggs,none
+Victor,male,adult,180,85,medium,performance,moderate,normal_appetite,habit_driven,social,seafood,pasta,spicy,crunchy,gourmet,advanced,premium,restaurant_heavy,high,mixed,advanced,none,shellfish,none
+Anna,female,senior,162,68,medium,health_improvement,slow_sustainable,low_appetite,chaotic_schedule,boredom,fish,potato,bland_simple,liquid,minimalist,basic,low,home_based,light,walking,beginner,pescatarian,none,celiac
+
+

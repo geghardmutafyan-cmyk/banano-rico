@@ -1,0 +1,143 @@
+Medical Exclusion & Risk Screening List for AI Nutrition System
+HARD BLOCK — AI MUST REFUSE TO GENERATE A DIET PLAN
+If the user has any of the following conditions, the system must refuse personalized nutrition or weight-loss planning and recommend consulting a physician or registered dietitian.
+Eating Disorders
+Anorexia nervosa
+Bulimia nervosa
+Binge eating disorder
+Orthorexia
+History of eating disorders
+Self-starvation or dangerous fasting behavior
+Diabetes & Endocrine Disorders
+Type 1 diabetes
+Uncontrolled Type 2 diabetes
+Gestational diabetes
+Insulin-dependent diabetes
+Kidney Conditions
+Chronic kidney disease (CKD stage 3–5)
+Dialysis
+Nephrotic syndrome
+Kidney transplant
+Liver Conditions
+Cirrhosis
+Liver failure
+Severe or active hepatitis with complications
+Cardiovascular Conditions
+Heart failure
+Recent heart attack
+Recent stroke
+Uncontrolled hypertension
+Cancer & Severe Illness
+Active cancer treatment
+Cachexia
+Severe unexplained weight loss
+Gastrointestinal Disorders
+Active Crohn’s disease flare
+Active ulcerative colitis flare
+Severe celiac disease
+Pancreatitis
+Malabsorption syndromes
+Recent bariatric surgery
+Severe Allergic Conditions
+History of anaphylaxis
+Multiple severe food allergies
+Pregnancy & Lactation
+Pregnancy
+Breastfeeding
+Age Restrictions
+Children
+Adolescents requesting weight-loss diets
+Severe Underweight / Malnutrition
+BMI below 18.5
+Clinical signs of malnutrition
+
+MEDICAL REVIEW REQUIRED — LIMITED AI ASSISTANCE ONLY
+The system may provide only general wellness guidance, not aggressive dieting or body recomposition plans.
+Endocrine & Hormonal Conditions
+Hypothyroidism
+Hyperthyroidism
+PCOS
+Insulin resistance
+Gastrointestinal Conditions
+IBS
+GERD
+Chronic gastritis
+Chronic constipation or diarrhea
+Neurological Conditions
+Epilepsy
+Chronic migraines
+Autoimmune Diseases
+Lupus
+Rheumatoid arthritis
+Hashimoto’s thyroiditis
+Mental Health Conditions
+Depression
+Anxiety disorders
+OCD
+ADHD
+Medication-Related Risks
+Warfarin
+GLP-1 medications
+Steroids
+Antidepressants
+Diuretics
+
+SOFT WARNING — ADAPTIVE PLANNING REQUIRED
+The AI system may continue but should adapt recommendations carefully.
+Vegetarian diet
+Vegan diet
+Intermittent fasting
+Ketogenic diet
+Food intolerances
+Lactose intolerance
+GERD trigger foods
+Night-shift work
+High-performance athletic training
+
+UNSAFE GOALS — AUTOMATIC REJECTION
+The system must reject requests such as:
+“I want to lose 15 kg in one month”
+“I want to eat only 500 calories”
+“How can I stop eating?”
+“How can I cut weight fast at age 14?”
+“How can I starve myself safely?”
+
+EXTREME BIOMETRIC SAFETY RULES
+The system should trigger warnings or blocks when detecting:
+BMI below 18.5 combined with weight-loss goals
+BMI above 40
+Extremely low body-fat percentage
+Weight-loss targets exceeding 1% body weight per week
+
+RECOMMENDED SAFETY ARCHITECTURE
+Suggested Multi-Agent Flow
+User Input
+↓
+Medical Screening Agent
+↓
+Risk Classification Agent
+↓
+Decision Engine
+Decision Outcomes
+RED → Reject consultation
+YELLOW → Limited wellness-only recommendations
+GREEN → Full personalized planning
+
+RECOMMENDED SAFETY MODULES
+Contraindication Engine
+Examples:
+Keto diet + kidney disease → Block
+Fasting + diabetes → Block
+Low sodium diet + hypotension → Warning
+Nutrition Safety Validator
+Validates:
+Minimum calorie thresholds
+Protein adequacy
+Micronutrient coverage
+Hydration safety
+Hallucination Guard
+Prevents:
+Detox pseudoscience
+Dangerous fasting advice
+Unsafe supplementation
+Unsupported medical claims

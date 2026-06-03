@@ -1,0 +1,209 @@
+Nutrition & Fitness Platform — Data Model
+Source questionnaire extracted from uploaded document.
+1. Domain Overview
+The uploaded structure represents a behavioral nutrition and fitness intake system. The optimal data model should:
+Normalize reusable categorical dimensions
+Support multi-select attributes
+Preserve extensibility for ML/recommendation systems
+Allow analytics across users
+Support personalized meal/training generation
+The domain naturally decomposes into:
+User Core Profile
+Goal & Outcome Modeling
+Behavioral & Appetite Modeling
+Food Preference Modeling
+Lifestyle Constraints
+Fitness Modeling
+Medical Restrictions
+
+2. Recommended Relational Data Model
+Core Entities
+User
+ ├── PhysicalProfile
+ ├── GoalProfile
+ ├── HungerProfile
+ ├── PreferenceProfile
+ ├── LifestyleProfile
+ ├── FitnessProfile
+ └── MedicalProfile
+
+Because most questionnaire sections contain multi-select arrays, junction tables are required.
+
+3. Entity Definitions
+3.1 User
+Table: users
+
+3.2 Physical Profile
+Table: physical_profiles
+
+4. Goal Modeling
+Goals are multi-select and should be normalized.
+Table: goals
+Table: user_goals
+Composite PK:
+PRIMARY KEY (user_id, goal_id)
+
+
+Table: goal_profiles
+Enums:
+speed_preference:
+- aggressive
+- moderate
+- slow_sustainable
+
+deadline_type:
+- event_based
+- long_term
+- no_deadline
+
+
+5. Hunger & Behavioral Modeling
+Table: hunger_types
+Table: user_hunger_types
+
+Table: satiety_responses
+Table: user_satiety_responses
+
+Table: discipline_patterns
+
+Table: emotional_eating_types
+
+Table: failure_patterns
+
+6. Food Preference Modeling
+Protein Preferences
+Table: protein_preferences
+Table: user_protein_preferences
+
+Carb Preferences
+Table: carb_preferences
+
+Flavor Profile
+Table: flavor_profiles
+
+Texture Preferences
+Table: texture_preferences
+
+7. Lifestyle & Operational Constraints
+Table: food_complexities
+
+Table: cooking_skills
+
+Table: meal_time_budgets
+
+Table: food_budgets
+
+Table: eating_environments
+
+8. Fitness Modeling
+Table: activity_levels
+
+Table: training_styles
+
+Table: fitness_knowledge_levels
+
+9. Restriction & Medical Modeling
+Table: ethical_restrictions
+
+Allergies
+Table: allergies
+
+Intolerances
+Table: intolerances
+
+Medical Conditions
+Table: medical_conditions
+
+10. Recommended Architecture
+Best Practice Recommendation
+Use Hybrid Modeling
+Recommended stack:
+PostgreSQL
++
+JSONB extension fields
+
+Reason:
+Strong analytics support
+Easier querying
+Better AI feature engineering
+Flexible future schema expansion
+Safer than pure NoSQL for structured behavioral data
+
+11. Example PostgreSQL User Snapshot
+{
+  "user_id": "uuid",
+  "physical_profile": {
+    "sex": "male",
+    "height_cm": 180,
+    "weight_kg": 80
+  },
+  "goals": ["fat_loss", "muscle_gain"],
+  "hunger_types": ["night_hunger", "snacker"],
+  "protein_preferences": ["chicken", "eggs"],
+  "activity_level": "moderate",
+  "training_style": ["gym", "strength"],
+  "allergies": ["milk"]
+}
+
+
+12. Data Modeling Notes
+Why NOT use single ENUM arrays everywhere?
+Avoid storing everything directly like:
+protein_preferences TEXT[]
+
+because:
+Harder analytics
+Weak referential integrity
+Poor ML feature extraction
+Difficult filtering/indexing
+Hard to evolve taxonomy
+Normalized lookup tables are more scalable.
+
+13. Future Extensions
+The schema can later support:
+AI-generated meal plans
+Macro recommendation engine
+Adherence prediction
+Craving prediction
+Habit scoring
+Nutritional risk scoring
+Wearable integration
+Weekly progress tracking
+Coach dashboards
+Recommendation embeddings
+
+14. Recommended API Shape
+REST Example
+POST /users/{id}/profile
+GET /users/{id}/nutrition-profile
+POST /users/{id}/goals
+POST /users/{id}/restrictions
+
+
+15. Recommended Indexes
+CREATE INDEX idx_user_goals_goal_id
+ON user_goals(goal_id);
+
+CREATE INDEX idx_users_activity_level
+ON fitness_profiles(activity_level);
+
+CREATE INDEX idx_medical_conditions
+ON user_medical_conditions(condition_id);
+
+
+16. Final Recommendation
+For production-grade implementation:
+Use
+PostgreSQL
+UUID primary keys
+Lookup tables for categorical dimensions
+Junction tables for multi-select fields
+JSONB for experimental/extensible attributes
+Event tracking table for longitudinal behavioral analytics
+This structure is scalable for:
+mobile apps
+AI personalization systems
+recommendation engines
+nutrition coaching platforms
+analytics dashboards
+machine learning pipelines
