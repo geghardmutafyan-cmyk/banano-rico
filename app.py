@@ -18,8 +18,8 @@ load_dotenv()
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Banano Rico 🍌",
-    page_icon="🍌",
+    page_title="Banano Rico",
+    page_icon="💪",
     layout="centered",
 )
 
@@ -245,7 +245,7 @@ def init_state():
 
 # ── UI helpers ─────────────────────────────────────────────────────────────────
 def header():
-    st.markdown("# 🍌 Banano Rico")
+    st.markdown("#Banano Rico")
     st.markdown("*AI-powered personalized nutrition planning*")
     st.divider()
 
@@ -487,7 +487,7 @@ def step_goal():
         step=1000,
     )
 
-    if st.button("Generate my nutrition plan 🍌", type="primary"):
+    if st.button("Generate my nutrition plan", type="primary"):
         record["weekly_budget_amd"] = budget
         goal = "weight_loss" if goal_choice == "Weight loss" else "muscle_gain"
         record["nutrition_goal"] = goal
