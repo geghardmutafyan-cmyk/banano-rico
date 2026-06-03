@@ -120,6 +120,10 @@ Output rules:
   ## 4. Notes and Safety Considerations
 - Weekly Nutrition Plan must cover Monday through Sunday.
 - Daily Proportions must include protein, carbs, fats, vegetables/fruit, and hydration.
+- Estimated Weekly Grocery Cost: use the product prices from the RAG knowledge base
+  (product_names_prices_100g.txt) to estimate the cost of each meal in the weekly plan.
+  Show a cost breakdown per day and a total weekly estimate. Use the local currency from the data.
+
 """
 
 REVISION_SYSTEM_PROMPT = """
@@ -475,7 +479,16 @@ def step_goal():
         index=0,
     )
 
+    budget = st.number_input(
+        "Your approximate weekly grocery budget (AMD)",
+        min_value=0,
+        max_value=500000,
+        value=15000,
+        step=1000,
+    )
+
     if st.button("Generate my nutrition plan 🍌", type="primary"):
+        record["weekly_budget_amd"] = budget
         goal = "weight_loss" if goal_choice == "Weight loss" else "muscle_gain"
         record["nutrition_goal"] = goal
 
